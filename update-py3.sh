@@ -40,9 +40,7 @@ sleep 4;
 		echo ". >>>>         RESTARING     <<<<"
 echo "**********************************************************************************"
 wait
-init 4
-sleep 2
-init 3
+killall -9 enigma2
 exit 0
 
 
