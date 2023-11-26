@@ -90,13 +90,10 @@ echo ""
 sync
 echo ""
 echo "#         Enigma TOOLS $version INSTALLED SUCCESSFULLY              #"
-echo "#      Uploded BY Emil_Nabil #"
 echo "**************************************************************"
 echo "#              your Device will RESTART Now                  #"
 echo "**************************************************************"
-echo "   UPLOADED BY  >>>>   EMIL_NABIL "   
-sleep 4;
-		echo 'RESTARTING GUI ...'
-echo '--------------------------------------------------------------------------------'
-sync; sleep 3; if which systemctl; then systemctl restart enigma2; else killall -9 enigma2; fi
+reboot
+wait
+sleep 2;
 exit 0
