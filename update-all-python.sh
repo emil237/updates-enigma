@@ -1,3 +1,72 @@
-z="
-";RFz='e"]=';QEz='igma';AEz='3-xm';RCz='Open';wBz='ull ';HEz='arde';OEz='llow';UCz=' "Un';lBz='mOS'\''';SCz='sour';dBz='CHEC';kFz='-mul';uFz='-pyd';hDz='3-im';pz='elif';rDz='mmap';aCz='-A p';aGz='0-pl';mBz='apt-';wFz='xmlr';YGz='er"]';lCz='=(';AGz='ifi"';bEz='eg"]';PEz='["en';VGz='r3"]';mEz='ood"';QFz='crap';GHz='s al';Xz='THON';rGz='ge";';yGz='TALL';FGz='s"]=';Dz='ed b';fFz='mage';iCz='3'\'' ]';lFz='tipr';ZEz='p"]=';GEz='3-ch';FHz='ge i';SFz='live';RGz='mpeg';HBz='r 3 ';MEz='2py"';aDz='sqli';BGz='-cha';cGz='od"]';jFz='rse"';cCz='ges';OBz='nd -';MHz='date';XDz='1';WDz='v"]=';JCz='--fo';Pz='hon ';GBz=' 2 o';OGz='vice';OCz='st-i';Sz='n 2>';tFz='ent"';HGz='ma2-';az='" | ';sFz='scli';sCz='wget';Kz='PYTH';QCz='lled';pBz='te';XFz='lite';DCz='stal';TBz='null';DGz='n-py';EEz='-url';bDz='te3"';sDz='n3-n';vFz='oc"]';cFz='["f4';nCz='zip"';CBz='n2"';fBz='STAL';aBz=' ins';eBz='K_IN';hEz='yer"';JDz='["py';eEz='yer3';XBz='ALL=';bCz='acka';OHz='n is';LCz='depe';MDz='fuls';hCz=' '\''PY';XGz='play';qCz='r"]=';LHz='n up';YEz='ceap';xz='on 2';MGz='gins';QGz='["ff';ADz='rl"]';hGz='ges[';kGz='if !';hBz='"dpk';Ez='y Em';Hz='"';Mz='ERSI';mFz='oces';LFz='-bea';DBz='PY2'\''';iGz='@]}"';NCz='g li';aFz='ycry';DEz='fi"]';tBz='opkg';UGz='laye';EFz='"hls';YBz='"apt';gFz='n-im';dCz='if [';ZCz='are ';wCz='=1 [';fz=' 3\.';TDz='vest';iEz='trea';CCz='g in';Bz=' "Up';oz='PY3'\''';uz='ep -';yEz=' ]; ';WBz='INST';cBz=' -y"';VDz='ersr';SDz='["li';pEz=']=1';NBz='omma';PFz='-cfs';jEz='mer1';NFz='ulso';eDz='to"]';mz='n3"';PHz=' ava';IGz='plug';IFz='n-re';CEz='erti';nEz='ns-u';kz='ve P';kCz='ages';nFz='sing';rFz='http';QHz='ilab';FDz='pyth';tz='| gr';oFz='n-mm';Wz='"$PY';qDz='ssin';nBz='get ';qEz='ns-b';rz='o "$';CGz='rdet';gGz='${!p';ZGz='er1.';Rz='rsio';SGz=' ["e';sGz=' "In';jDz='agin';KDz='3-be';vz='q '\''^';gBz='LED=';Yz='_VER';rEz='ase"';GDz='on3-';sBz=' -v ';eGz='age ';CHz='v/nu';nDz='3-mu';rCz='1 ["';oDz='ltip';uCz=' ["z';dGz='for ';KCz='rce-';TFz='stre';Qz='--ve';dFz='mdum';xGz='$INS';pCz='["ta';EGz='sock';fCz='YTHO';iBz='g -l';dEz='epla';xBz='2>&1';tEz=')';KHz='or a';xCz='"ar"';qBz=' com';nz='ON='\''';KGz='yste';yDz='doc"';DDz='-lxm';GGz='enig';bz='grep';lGz=' $CH';PBz='v ap';EBz='else';XCz='d OS';NEz='3-pi';BHz='>/de';Cz='load';qGz=' "$p';fDz='"f4m';VCz='supp';pFz='ap"]';JHz='led ';CFz='et"]';BBz='n';cEz='"ext';uEz=' [ "';lDz='argp';eCz=' "$P';gz=''\''; t';jBz='OS='\''';FEz='lib3';LEz='3-js';Tz='&1)';hFz='on-a';lEz='ns-g';PDz='n3-c';THz='done';KEz='cks"';sEz='ad"]';BCz='"opk';Oz='(pyt';gEz='tpla';ICz='all ';kBz='Drea';AFz='then';Uz='if e';pGz=' -qw';mDz='arse';dDz='cryp';uBz=' >/d';TCz='ce'\''';rBz='mand';dz=''\''^Py';tCz='"]=1';HCz='inst';tDz='dg-h';xEz=' = '\''';HDz='requ';oCz=']=1 ';ODz=' ["p';uDz='ttps';IDz='ests';bFz='pto"';ZDz='x"]=';MFz='utif';Iz='slee';iDz='age"';iz=' "Yo';ECz='l --';eFz='on-i';iFz='rgpa';vDz='clie';FCz='forc';fGz='in "';lz='ytho';PCz='nsta';Gz='abil';CDz='hon3';JBz='equi';jz='u ha';IHz='y in';JFz='ques';fEz='["gs';KBz='red.';oBz='upda';YCz='decl';kEz='.0-p';jCz='pack';vBz='ev/n';xDz='=1';kDz='g"]=';WFz='n-sq';cDz='3-py';UFz='amer';LBz='fi';Jz='p 4';Vz='cho ';wEz='HON"';PGz='app"';SEz='ugin';LDz='auti';mCz='["p7';vGz='ckag';WGz='"gst';VFz='-six';vCz='ip"]';cz=' -q ';XEz='ervi';Zz='SION';NHz='d ve';mGz='ECK_';HHz='read';DHz='ll 2';JGz='in-s';VEz='lugi';UDz='ream';Az='echo';IBz='is r';yFz='cert';aEz='ffmp';tGz='ling';EDz='l"]=';VBz='1; t';sz='ON" ';ZBz='-get';bGz='s-go';ez='thon';WEz='ns-s';YDz='3-si';AHz='ge" ';SHz='Ok"';BFz='["wg';HFz='lxml';NGz='-ser';ZFz='on-p';yBz='; th';uGz=' $pa';MCz='nds"';UEz='temp';GCz='e-re';qFz='ndg-';nGz='ALLE';BDz='"pyt';QDz='fscr';yCz='["cu';wDz='nt"]';oEz='gly"';QBz='t-ge';RHz='le. ';oGz='D | ';wz='Pyth';TGz='xtep';FBz=' "Py';wGz='e...';YFz='3"]=';ACz='en';MBz='if c';OFz='up4"';BEz='lrpc';Nz='ON=$';xFz='pc"]';GFz='hon-';SBz='dev/';JEz='pyso';jGz='; do';gCz='N" =';LGz='mplu';Fz='il N';REz='2-pl';DFz='"tar';FFz='dl"]';yz='\.'\'';';ABz=' the';RDz='ape"';pDz='roce';IEz='t"]=';bBz='tall';KFz='ts"]';NDz='oup4';qz=' ech';hz='hen';WCz='orte';vEz='$PYT';TEz='-sys';gDz='dump';Lz='ON_V';UBz=' 2>&';EHz='>&1';RBz='t >/';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$z$Iz$Jz$z$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$z$Az$iz$jz$kz$lz$mz$z$Kz$nz$oz$z$pz$qz$rz$Kz$Lz$Mz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$z$Az$iz$jz$kz$lz$CBz$z$Kz$nz$DBz$z$EBz$z$Az$FBz$ez$GBz$HBz$IBz$JBz$KBz$Hz$z$LBz$z$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$hz$z$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$z$dBz$eBz$fBz$gBz$hBz$iBz$Hz$z$jBz$kBz$lBz$z$mBz$nBz$oBz$pBz$z$pz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$z$WBz$XBz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$z$dBz$eBz$fBz$gBz$BCz$NCz$OCz$PCz$QCz$Hz$z$jBz$RCz$SCz$TCz$z$EBz$z$Az$UCz$VCz$WCz$XCz$Hz$z$LBz$z$YCz$ZCz$aCz$bCz$cCz$z$dCz$eCz$fCz$gCz$hCz$iCz$yBz$ACz$z$jCz$kCz$lCz$z$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$oCz$yCz$ADz$wCz$BDz$CDz$DDz$EDz$rCz$FDz$GDz$HDz$IDz$tCz$z$JDz$ez$KDz$LDz$MDz$NDz$tCz$ODz$lz$PDz$QDz$RDz$oCz$SDz$TDz$UDz$VDz$WDz$XDz$z$JDz$ez$YDz$ZDz$rCz$FDz$GDz$aDz$bDz$oCz$JDz$ez$cDz$dDz$eDz$wCz$fDz$gDz$tCz$z$JDz$ez$hDz$iDz$oCz$JDz$ez$hDz$jDz$kDz$rCz$FDz$GDz$lDz$mDz$tCz$z$JDz$ez$nDz$oDz$pDz$qDz$kDz$rCz$FDz$GDz$rDz$tCz$ODz$lz$sDz$tDz$uDz$vDz$wDz$xDz$z$JDz$ez$cDz$yDz$oCz$JDz$ez$AEz$BEz$tCz$ODz$lz$PDz$CEz$DEz$wCz$BDz$CDz$EEz$FEz$tCz$z$JDz$ez$GEz$HEz$IEz$rCz$FDz$GDz$JEz$KEz$oCz$JDz$ez$LEz$MEz$oCz$JDz$ez$NEz$OEz$tCz$z$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$rCz$aEz$bEz$wCz$cEz$dEz$eEz$tCz$z$fEz$gEz$hEz$oCz$fEz$iEz$jEz$kEz$VEz$lEz$mEz$oCz$fEz$iEz$jEz$kEz$VEz$nEz$oEz$pEz$z$fEz$iEz$jEz$kEz$VEz$qEz$rEz$oCz$fEz$iEz$jEz$kEz$VEz$qEz$sEz$xDz$z$tEz$z$pz$uEz$vEz$wEz$xEz$DBz$yEz$AFz$z$jCz$kCz$lCz$z$BFz$CFz$wCz$DFz$tCz$uCz$vCz$wCz$xCz$oCz$yCz$ADz$wCz$EFz$FFz$wCz$BDz$GFz$HFz$tCz$ODz$lz$IFz$JFz$KFz$xDz$z$JDz$ez$LFz$MFz$NFz$OFz$oCz$JDz$ez$PFz$QFz$RFz$rCz$SFz$TFz$UFz$tCz$z$JDz$ez$VFz$tCz$ODz$lz$WFz$XFz$YFz$rCz$FDz$ZFz$aFz$bFz$pEz$z$cFz$dFz$ZEz$rCz$FDz$eFz$fFz$tCz$ODz$lz$gFz$jDz$kDz$rCz$FDz$hFz$iFz$jFz$pEz$z$JDz$ez$kFz$lFz$mFz$nFz$tCz$ODz$lz$oFz$pFz$wCz$BDz$GFz$qFz$rFz$sFz$tFz$pEz$z$JDz$ez$uFz$vFz$wCz$BDz$GFz$wFz$xFz$wCz$BDz$GFz$yFz$AGz$oCz$JDz$ez$EEz$FEz$tCz$z$JDz$ez$BGz$CGz$tCz$ODz$lz$DGz$EGz$FGz$rCz$GGz$HGz$IGz$JGz$KGz$LGz$MGz$NGz$OGz$PGz$pEz$z$QGz$RGz$tCz$SGz$TGz$UGz$VGz$wCz$WGz$XGz$YGz$wCz$WGz$UDz$ZGz$aGz$SEz$bGz$cGz$xDz$z$fEz$iEz$jEz$kEz$VEz$nEz$oEz$oCz$fEz$iEz$jEz$kEz$VEz$qEz$rEz$oCz$fEz$iEz$jEz$kEz$VEz$qEz$sEz$xDz$z$tEz$z$EBz$z$Az$FBz$ez$GBz$HBz$IBz$JBz$KBz$Hz$z$LBz$z$dGz$jCz$eGz$fGz$gGz$bCz$hGz$iGz$jGz$z$kGz$lGz$mGz$WBz$nGz$oGz$bz$pGz$qGz$bCz$rGz$ABz$BBz$z$Az$sGz$DCz$tGz$uGz$vGz$wGz$Hz$z$xGz$yGz$qGz$bCz$AHz$BHz$CHz$DHz$EHz$z$EBz$z$Az$qGz$bCz$FHz$GHz$HHz$IHz$DCz$JHz$KHz$LHz$MHz$NHz$Rz$OHz$PHz$QHz$RHz$SHz$z$LBz$z$THz"
+#!/bin/sh
+
+echo "Uploaded by Emil Nabil"
+sleep 4
+
+PYTHON_VERSION=$(python --version 2>&1)
+if echo "$PYTHON_VERSION" | grep -q '^Python 3\.'; then
+   echo "You have Python3"
+   PYTHON='PY3'
+elif echo "$PYTHON_VERSION" | grep -q '^Python 2\.'; then
+   echo "You have Python2"
+   PYTHON='PY2'
+else
+   echo "Python 2 or 3 is required."
+fi
+
+#
+if command -v apt-get >/dev/null 2>&1; then
+    INSTALL="apt-get install -y"
+    CHECK_INSTALLED="dpkg -l"
+    OS='DreamOS'
+    apt-get update 
+elif command -v opkg >/dev/null 2>&1; then
+    INSTALL="opkg install --force-reinstall --force-depends"
+    CHECK_INSTALLED="opkg list-installed"
+    OS='Opensource'
+  opkg update 
+else
+    echo "Unsupported OS"
+fi
+
+# 
+declare -A packages
+if [ "$PYTHON" = 'PY3' ]; then
+    packages=(
+        ["p7zip"]=1 ["libavformat58"]=1 ["libavcodec58"]=1 ["python3-cryptography"]=1 ["libgcc1"]=1 ["libc6"]=1 ["libavcodec61"]=1 ["libavformat61"]=1 ["libasound2"]=1 ["enigma2"]=1 ["alsa-plugins"]=1 ["tar"]=1 ["wget"]=1 ["zip"]=1 ["ar"]=1 ["curl"]=1 ["python3-lxml"]=1 ["python3-requests"]=1
+        ["python3-beautifulsoup4"]=1 ["python3-cfscrape"]=1 ["livestreamersrv"]=1
+        ["python3-six"]=1 ["python3-sqlite3"]=1 ["python3-pycrypto"]=1 ["f4mdump"]=1
+        ["python3-image"]=1 ["python3-imaging"]=1 ["python3-argparse"]=1
+        ["python3-multiprocessing"]=1 ["python3-mmap"]=1 ["python3-ndg-httpsclient"]=1
+        ["python3-pydoc"]=1 ["python3-xmlrpc"]=1 ["python3-certifi"]=1 ["python3-urllib3"]=1
+        ["python3-chardet"]=1 ["python3-pysocks"]=1 ["python3-js2py"]=1 ["python3-pillow"]=1
+        ["enigma2-plugin-systemplugins-serviceapp"]=1 ["ffmpeg"]=1 ["exteplayer3"]=1
+        ["gstplayer"]=1 ["gstreamer1.0-plugins-good"]=1 ["gstreamer1.0-plugins-ugly"]=1
+        ["gstreamer1.0-plugins-base"]=1 ["gstreamer1.0-plugins-bad"]=1
+    )
+elif [ "$PYTHON" = 'PY2' ]; then
+    packages=(
+        ["wget"]=1 ["tar"]=1 ["zip"]=1 ["ar"]=1 ["curl"]=1 ["hlsdl"]=1 ["python-lxml"]=1 ["python-requests"]=1
+        ["python-beautifulsoup4"]=1 ["python-cfscrape"]=1 ["livestreamer"]=1
+        ["python-six"]=1 ["python-sqlite3"]=1 ["python-pycrypto"]=1
+        ["f4mdump"]=1 ["python-image"]=1 ["python-imaging"]=1 ["python-argparse"]=1
+        ["python-multiprocessing"]=1 ["python-mmap"]=1 ["python-ndg-httpsclient"]=1
+        ["python-pydoc"]=1 ["python-xmlrpc"]=1 ["python-certifi"]=1 ["python-urllib3"]=1
+        ["python-chardet"]=1 ["python-pysocks"]=1 ["enigma2-plugin-systemplugins-serviceapp"]=1
+        ["ffmpeg"]=1 ["exteplayer3"]=1 ["gstplayer"]=1 ["gstreamer1.0-plugins-good"]=1
+        ["gstreamer1.0-plugins-ugly"]=1 ["gstreamer1.0-plugins-base"]=1 ["gstreamer1.0-plugins-bad"]=1
+    )
+else
+    echo "Python 2 or 3 is required."
+fi
+
+# 
+for package in "${!packages[@]}"; do
+    if ! $CHECK_INSTALLED | grep -qw "$package"; then
+        echo "Installing $package..."
+        $INSTALL "$package" >/dev/null 2>&1
+    else
+        echo "$package is already installed or an updated version is available. Ok"
+    fi
+done
+
