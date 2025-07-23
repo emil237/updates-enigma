@@ -1,64 +1,105 @@
 #!/bin/sh
 
-# Check Python version
-PYTHON_VERSION=$(python --version 2>&1)
-if echo "$PYTHON_VERSION" | grep -q '^Python 3\.'; then
-   PYTHON='PY3'
-elif echo "$PYTHON_VERSION" | grep -q '^Python 2\.'; then
-   PYTHON='PY2'
+version="Emil PANEL"
+
+if python --version 2>&1 | grep -q '^Python 3\.'; then
+    PYTHON="PY3"
+    echo "✅ You have Python3 image"
+elif python --version 2>&1 | grep -q '^Python 2\.'; then
+    PYTHON="PY2"
+    echo "✅ You have Python2 image"
 else
-   exit 1
+    echo "❌ Python not detected"
+    exit 1
 fi
 
-# Check package manager
 if command -v apt-get >/dev/null 2>&1; then
     INSTALL="apt-get install -y"
     CHECK_INSTALLED="dpkg -l"
     OS='DreamOS'
+    echo "📦 Package Manager: apt-get (DreamOS)"
     apt-get update >/dev/null 2>&1
 elif command -v opkg >/dev/null 2>&1; then
-    INSTALL="opkg install --force-reinstall --force-depends"
+    INSTALL="opkg install"
     CHECK_INSTALLED="opkg list-installed"
-    OS='Opensource'
+    OS='OpenSource'
+    echo "📦 Package Manager: opkg (OpenSource)"
+    rm -f /run/opkg.lock
+    rm -rf /var/cache/opkg/*
+    opkg update >/dev/null 2>&1
 else
+    echo "❌ No supported package manager found"
     exit 1
 fi
 
-# Define packages based on Python version
-declare -A packages
-if [ "$PYTHON" = 'PY3' ]; then
-    packages=(
-      ["p7zip"]=1 ["python3-rarfile"]=1 ["libavformat58"]=1 ["libavcodec58"]=1 ["python3-cryptography"]=1
-      ["libgcc1"]=1 ["libc6"]=1 ["libavcodec61"]=1 ["libavformat61"]=1 ["libasound2"]=1 ["enigma2"]=1
-      ["alsa-plugins"]=1 ["tar"]=1 ["wget"]=1 ["zip"]=1 ["ar"]=1 ["curl"]=1 ["python3-lxml"]=1
-      ["python3-requests"]=1 ["python3-beautifulsoup4"]=1 ["python3-cfscrape"]=1 ["livestreamersrv"]=1
-      ["python3-six"]=1 ["python3-sqlite3"]=1 ["python3-pycrypto"]=1 ["f4mdump"]=1 ["python3-image"]=1
-      ["python3-imaging"]=1 ["python3-argparse"]=1 ["python3-multiprocessing"]=1 ["python3-mmap"]=1
-      ["python3-ndg-httpsclient"]=1 ["python3-pydoc"]=1 ["python3-xmlrpc"]=1 ["python3-certifi"]=1
-      ["python3-urllib3"]=1 ["python3-chardet"]=1 ["python3-pysocks"]=1 ["python3-js2py"]=1
-      ["python3-pillow"]=1 ["enigma2-plugin-systemplugins-serviceapp"]=1 ["ffmpeg"]=1 ["exteplayer3"]=1
-      ["gstplayer"]=1 ["gstreamer1.0-plugins-good"]=1 ["gstreamer1.0-plugins-ugly"]=1 ["gstreamer1.0-plugins-base"]=1
-      ["gstreamer1.0-plugins-bad"]=1
-    )
-elif [ "$PYTHON" = 'PY2' ]; then
-    packages=(
-      ["wget"]=1 ["tar"]=1 ["zip"]=1 ["ar"]=1 ["curl"]=1 ["hlsdl"]=1 ["python-lxml"]=1 ["python-requests"]=1
-      ["python-beautifulsoup4"]=1 ["python-rarfile"]=1 ["python-cfscrape"]=1 ["livestreamer"]=1
-      ["python-six"]=1 ["python-sqlite3"]=1 ["python-pycrypto"]=1 ["f4mdump"]=1 ["python-image"]=1
-      ["python-imaging"]=1 ["python-argparse"]=1 ["python-multiprocessing"]=1 ["python-mmap"]=1
-      ["python-ndg-httpsclient"]=1 ["python-pydoc"]=1 ["python-xmlrpc"]=1 ["python-certifi"]=1
-      ["python-urllib3"]=1 ["python-chardet"]=1 ["python-pysocks"]=1
-      ["enigma2-plugin-systemplugins-serviceapp"]=1 ["ffmpeg"]=1 ["exteplayer3"]=1
-      ["gstplayer"]=1 ["gstreamer1.0-plugins-good"]=1 ["gstreamer1.0-plugins-ugly"]=1
-      ["gstreamer1.0-plugins-base"]=1 ["gstreamer1.0-plugins-bad"]=1
-    )
+is_installed_opkg() {
+    grep -q "Package: $1" /var/lib/opkg/status && grep -A1 "Package: $1" /var/lib/opkg/status | grep -q "Status: install ok installed"
+}
+
+PACKAGESPY3=(
+"alsa-plugins" "p7zip" "wget" "python3-requests" "python3-imaging"
+"python3-lxml" "python3-multiprocessing" "python3-pyexecjs"
+"python3-sqlite3" "python3-six" "python3-codecs" "python3-compression"
+"python3-difflib" "python3-xmlrpc" "python3-html" "python3-misc"
+"python3-shell" "python3-twisted-web" "python3-unixadmin" "python3-treq"
+"python3-core" "python3-cryptography" "python3-json" "python3-netclient"
+"python3-pyopenssl" "python3-futures3" "libusb-1.0-0" "unrar" "curl"
+"libxml2" "libxslt" "enigma2-plugin-systemplugins-serviceapp" "rtmpdump"
+"duktape" "astra-sm" "gstplayer" "gstreamer1.0-plugins-good"
+"gstreamer1.0-plugins-base" "gstreamer1.0-plugins-bad"
+"gstreamer1.0-plugins-ugly" "alsa-utils" "openvpn"
+)
+
+PACKAGESPY2=(
+"p7zip" "wget" "python-imaging" "python-lxml" "python-requests"
+"python-pyexecjs" "python-sqlite3" "python-six" "python-codecs"
+"python-compression" "python-difflib" "python-xmlrpc" "python-html"
+"python-misc" "python-shell" "python-subprocess" "python-twisted-web"
+"python-unixadmin" "python-cryptography" "python-json" "python-netclient"
+"python-pyopenssl" "python-futures" "libusb-1.0-0" "unrar" "curl"
+"libxml2" "libxslt" "enigma2-plugin-systemplugins-serviceapp"
+"python-lzma" "rtmpdump" "hlsdl" "duktape" "f4mdump" "astra-sm"
+"gstplayer" "gstreamer1.0-plugins-good" "gstreamer1.0-plugins-base"
+"gstreamer1.0-plugins-bad" "gstreamer1.0-plugins-ugly"
+"alsa-plugins" "alsa-utils" "openvpn"
+)
+
+if [ "$PYTHON" = "PY3" ]; then
+    PACKAGES=("${PACKAGESPY3[@]}")
+else
+    PACKAGES=("${PACKAGESPY2[@]}")
 fi
 
-# Install packages silently
-for package in "${!packages[@]}"; do
-    if ! $CHECK_INSTALLED | grep -qw "$package"; then
-        $INSTALL "$package" >/dev/null 2>&1
+echo ""
+echo "🔧 Installing Required Packages..."
+for PACKAGE in "${PACKAGES[@]}"; do
+    if [ "$OS" = "OpenSource" ]; then
+        if is_installed_opkg "$PACKAGE"; then
+            echo "✅ $PACKAGE already installed"
+        else
+            echo "➡ Installing $PACKAGE..."
+            $INSTALL "$PACKAGE" >/dev/null 2>&1
+        fi
+    else
+        if $CHECK_INSTALLED | grep -qw "$PACKAGE"; then
+            echo "✅ $PACKAGE already installed"
+        else
+            echo "➡ Installing $PACKAGE..."
+            $INSTALL "$PACKAGE" >/dev/null 2>&1
+        fi
     fi
 done
+
+echo ""
+echo "🧹 Cleaning Cache..."
+rm -rf /var/cache/opkg/* >/dev/null 2>&1
+rm -rf /var/volatile/tmp/opkg* >/dev/null 2>&1
+
+echo ""
+echo "✅✅✅ All dependencies installed successfully ✅✅✅"
+echo ""
+sleep 2
+exit 0
+
 
 
