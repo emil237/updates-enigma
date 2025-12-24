@@ -1,4 +1,221 @@
-z="
-";pFz='a-ut';tGz='1.0-';XCz='var/';gCz='>&1';KBz=' 2>&';QEz='mlrp';IDz=' $1"';OFz='s-se';IIz=' the';kCz=' pac';RGz='ion"';Cz='"Emi';mGz='ient';WDz='PACK';qGz='utur';xEz='.0-0';QGz='ress';tEz='ures';CDz='us &';EDz='ep -';ZEz='-web';KEz='mpre';nHz=' "🔧';QFz='eapp';Qz='; th';QBz='-get';eGz='n" "';gFz='ns-g';QIz=' alr';iBz='ager';GEz='ix" ';uz='on n';OBz='ALL=';yGz='lzma';aEz='n3-u';VEz='-she';Iz='ion ';ECz='g in';Kz=' | g';sBz='/nul';aFz='tpla';dGz='admi';KCz='lled';GCz='l"';TEz='n3-m';pHz='ing ';sz=' "❌ ';UEz='isc"';oHz=' Ins';nGz='pyop';lFz='s-ba';YFz='-sm"';fFz='lugi';bCz=' upd';oEz='ent"';vDz='mult';RDz=' ok ';LHz='od" ';eEz='req"';OGz='cs"';dCz='>/de';oFz='ly" ';oCz='is_i';uIz='l de';DDz='& gr';WIz='ng $';NFz='empl';KDz='r/li';eHz='3" ]';fGz='on-c';pBz='upda';fCz='ll 2';PIz='$PAC';rFz=' "op';LCz='Open';EJz='p 2';bz=' ima';rEz='sl" ';IFz='"eni';vHz='in "';PGz='comp';YGz='ell"';OCz=': op';dHz=' "PY';nFz='s-ug';CGz='ng" ';OIz='GE";';rIz='g* >';FHz=' "as';nz='.'\''; ';cCz='ate ';qDz='"pyt';vBz=' com';LEz='ssio';WGz='misc';PDz='"Sta';VGz='ml"';uGz='0" "';WFz='" "a';Bz='ion=';dEz='n3-t';jIz=' Cle';gDz='wget';Rz='en';UIz='Inst';nBz='apt-';oBz='get ';RIz='eady';iHz='SPY3';oGz='enss';ez=' pyt';ADz='pkg/';UGz='n-ht';PBz='"apt';oz='then';jHz='[@]}';aBz='"';ACz=' >/d';Uz='PY3"';BIz=' do';Lz='rep ';Yz='have';VHz='-uti';fIz='qw "';JCz='nsta';EHz='f4md';DGz='hon-';jGz='-jso';hEz='cryp';CIz=' "$O';xBz=' -v ';YBz='"dpk';nCz='nd"';DIz='S" =';lGz='etcl';jDz='eque';TIz=' "➡ ';TDz='alle';KGz='n-sq';YEz='sted';iCz='uppo';cEz='dmin';qFz='ils"';wDz='ipro';tCz=' -q ';eDz='p7zi';oDz='agin';eCz='v/nu';gHz='{PAC';HBz='t >/';UBz='CHEC';eIz='| gr';xGz='curl';hCz='No s';JFz='gma2';QDz='tus:';Wz=' "✅ ';wIz='enci';dBz='mOS'\''';kFz='0-pl';XHz='"ope';tz='Pyth';yDz='ing"';fHz='=("$';wz='etec';FFz='" "l';mIz='che.';XFz='stra';rCz='{';BHz='sdl"';FIz='enSo';BGz='magi';YHz='nvpn';mDz='thon';CEz='js"';lHz='SPY2';aDz='"als';yHz='ES[@';ZBz='g -l';AGz='on-i';REz='c" "';TFz='ump"';nDz='3-im';SEz='html';Xz='You ';rGz='es" ';cGz='unix';wBz='mand';iIz=' "🧹';jFz='er1.';oIz='tile';lz=' '\''^P';mFz='se" ';MHz='se"';BEz='exec';EIz=' "Op';AIz=']}";';BJz='y ✅✅';HDz='age:';Sz='PYTH';OEz='flib';Oz='hon ';hHz='KAGE';DCz='"opk';rHz='ired';EGz='lxml';WEz='ll" ';PEz='n3-x';LDz='b/op';sHz='s...';mHz=' ""';bFz='yer"';FEz='n3-s';cHz='N" =';qHz='Requ';NEz='-dif';fDz='p" "';ZDz='(';GHz='tra-';hFz='ood"';LFz='gin-';DEz='-sql';UDz='d"';Zz=' Pyt';HHz='sm"';wHz='${PA';NGz='code';dIz='LED ';vCz=': $1';qBz='te >';VDz='}';IEz='ecs"';GFz='ibxs';WHz='ls" ';ICz='st-i';yCz='ib/o';NHz='d" "';XIz='AGE.';ZFz=' "gs';aIz='TALL';BFz='" "c';jBz=': ap';OHz='gstr';mz='n 2\';LBz='1; t';JBz='null';ZCz='e/op';GGz='ques';MIz='led_';hDz='" "p';FDz='A1 "';sGz='usb-';rDz='-lxm';LGz='lite';sEz='-fut';lEz='son"';iGz='phy"';iDz='n3-r';kGz='on-n';vIz='pend';MGz='on-s';RFz='" "r';Jz='2>&1';SDz='inst';YDz='PY3=';pz='PY2"';XDz='AGES';qCz='g() ';EBz='nd -';LIz='s_in';uHz='AGE ';cBz='Drea';mEz='3-ne';wGz='r" "';cDz='ugin';tFz=')';gIz='"; t';BCz='ev/n';gBz='kage';DJz='slee';aHz=' "$P';hz='n 2>';bGz='ess"';CBz='if c';Nz='^Pyt';xHz='CKAG';yBz='opkg';WBz='STAL';VFz='tape';CHz=' "du';hIz='done';hBz=' Man';TGz='lrpc';GBz='t-ge';AHz=' "hl';JDz=' /va';FGz='n-re';ZHz='if [';Hz='n --';kIz='anin';yz='exit';PHz='eame';JEz='3-co';HEz='-cod';PCz='kg (';MDz='kg/s';gz='rsio';gGz='rypt';bHz='YTHO';bDz='a-pl';EFz='xml2';Fz='if p';sDz='l" "';FBz='v ap';dFz='mer1';vFz='"p7z';SBz='tall';qz='hon2';ODz='s | ';tBz='l 2>';YCz='cach';RCz='rm -';Gz='ytho';kBz='t (D';jCz='rted';qEz='pens';xz='ted"';wFz='ip" ';xCz='ar/l';pDz='g"';RBz=' ins';bEz='nixa';QHz='r1.0';pGz='on-f';TCz='un/o';sFz='envp';Tz='ON="';lDz=' "py';uDz='on3-';mBz='OS)"';dz='elif';XEz='-twi';iFz='"gst';CJz='✅"';UCz='pkg.';YIz='.."';yIz=' suc';MEz='n"';HIz='" ];';GIz='urce';sCz='grep';kEz='n3-j';THz='y"';xDz='cess';SFz='tmpd';IHz='play';pCz='_opk';cz='ge"';NBz='INST';IBz='dev/';bIz='GE" ';UFz='"duk';fz='--ve';XBz='LED=';eBz=' "📦';hGz='ogra';VBz='K_IN';cIz='if $';ZGz='-sub';Ez='NEL"';MBz='hen';JGz='ecjs';qIz='/opk';AJz='full';yEz='" "u';aCz='kg/*';nEz='tcli';JIz='n';SGz='n-xm';uBz='&1';jz=' gre';bBz='OS='\''';KHz='s-go';AEz='3-py';RHz='gins';iEz='togr';NDz='tatu';PFz='rvic';DBz='omma';lCz=' man';SIz='ed"';wCz='" /v';mCz=' fou';fBz=' Pac';Az='vers';BBz='fi';NCz='ce'\''';sIz=' "✅✅';gEz='e" "';CFz='url"';wEz='sb-1';xFz='"wge';pIz='/tmp';iz='&1 |';dDz='s" "';uEz='3" "';KIz='if i';DHz='ktap';HCz='g li';AFz='nrar';tDz='pyth';nIz='vola';fEz='-cor';MCz='Sour';vz='ot d';jEz='aphy';FJz=' 0';Mz='-q '\''';rBz='/dev';VIz='alli';MFz='syst';WCz='rf /';ZIz='$INS';CCz='ull ';kDz='sts"';eFz='.0-p';lBz='ream';EEz='ite3';vGz='unra';cFz='trea';HGz='ts"';JHz='er" ';vEz='libu';FCz='stal';ABz=' 1';uFz='PY2=';pEz='-pyo';xIz='es i';Pz='3\.'\''';HFz='lt" ';tIz='✅ Al';tHz='for ';XGz='n-sh';VCz='lock';QCz='ce)"';BDz='stat';yFz='t" "';kz='p -q';NIz='ACKA';IGz='pyex';GDz='Pack';UHz='alsa';DFz='"lib';aGz='proc';Vz='echo';SHz='-ugl';uCz='"Pac';TBz=' -y"';az='hon3';Dz='l PA';KFz='-plu';kHz='")';SCz='f /r';lIz='g Ca';rz='else';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$Hz$Az$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$z$Vz$Wz$Xz$Yz$Zz$az$bz$cz$z$dz$ez$Oz$fz$gz$hz$iz$jz$kz$lz$Gz$mz$nz$oz$z$Sz$Tz$pz$z$Vz$Wz$Xz$Yz$Zz$qz$bz$cz$z$rz$z$Vz$sz$tz$uz$vz$wz$xz$z$yz$ABz$z$BBz$z$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$z$bBz$cBz$dBz$z$Vz$eBz$fBz$gBz$hBz$iBz$jBz$GBz$kBz$lBz$mBz$z$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$z$dz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$Jz$Qz$Rz$z$NBz$OBz$DCz$ECz$FCz$GCz$z$UBz$VBz$WBz$XBz$DCz$HCz$ICz$JCz$KCz$aBz$z$bBz$LCz$MCz$NCz$z$Vz$eBz$fBz$gBz$hBz$iBz$OCz$PCz$LCz$MCz$QCz$z$RCz$SCz$TCz$UCz$VCz$z$RCz$WCz$XCz$YCz$ZCz$aCz$z$yBz$bCz$cCz$dCz$eCz$fCz$gCz$z$rz$z$Vz$sz$hCz$iCz$jCz$kCz$gBz$lCz$iBz$mCz$nCz$z$yz$ABz$z$BBz$z$oCz$JCz$KCz$pCz$qCz$rCz$z$sCz$tCz$uCz$gBz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$sCz$tCz$PDz$QDz$RBz$SBz$RDz$SDz$TDz$UDz$z$VDz$z$WDz$XDz$YDz$ZDz$z$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$Gz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$z$qDz$az$rDz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$lDz$mDz$AEz$BEz$CEz$z$qDz$az$DEz$EEz$hDz$Gz$FEz$GEz$qDz$az$HEz$IEz$lDz$mDz$JEz$KEz$LEz$MEz$z$qDz$az$NEz$OEz$hDz$Gz$PEz$QEz$REz$tDz$uDz$SEz$hDz$Gz$TEz$UEz$z$qDz$az$VEz$WEz$qDz$az$XEz$YEz$ZEz$hDz$Gz$aEz$bEz$cEz$hDz$Gz$dEz$eEz$z$qDz$az$fEz$gEz$tDz$uDz$hEz$iEz$jEz$hDz$Gz$kEz$lEz$lDz$mDz$mEz$nEz$oEz$z$qDz$az$pEz$qEz$rEz$qDz$az$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$z$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$cDz$OFz$PFz$QFz$RFz$SFz$TFz$z$UFz$VFz$WFz$XFz$YFz$ZFz$aFz$bFz$ZFz$cFz$dFz$eFz$fFz$gFz$hFz$z$iFz$lBz$jFz$kFz$cDz$lFz$mFz$iFz$lBz$jFz$kFz$cDz$lFz$UDz$z$iFz$lBz$jFz$kFz$cDz$nFz$oFz$aDz$pFz$qFz$rFz$sFz$MEz$z$tFz$z$WDz$XDz$uFz$ZDz$z$vFz$wFz$xFz$yFz$tDz$AGz$BGz$CGz$qDz$DGz$EGz$hDz$Gz$FGz$GGz$HGz$z$qDz$DGz$IGz$JGz$hDz$Gz$KGz$LGz$uEz$tDz$MGz$GEz$qDz$DGz$NGz$OGz$z$qDz$DGz$PGz$QGz$RGz$lDz$mDz$NEz$OEz$hDz$Gz$SGz$TGz$hDz$Gz$UGz$VGz$z$qDz$DGz$WGz$hDz$Gz$XGz$YGz$lDz$mDz$ZGz$aGz$bGz$lDz$mDz$XEz$YEz$ZEz$aBz$z$qDz$DGz$cGz$dGz$eGz$tDz$fGz$gGz$hGz$iGz$lDz$mDz$jGz$eGz$tDz$kGz$lGz$mGz$aBz$z$qDz$DGz$nGz$oGz$sDz$tDz$pGz$qGz$rGz$DFz$sGz$tGz$uGz$vGz$wGz$xGz$aBz$z$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$cDz$OFz$PFz$QFz$aBz$z$qDz$DGz$yGz$RFz$SFz$TFz$AHz$BHz$CHz$DHz$gEz$EHz$TFz$FHz$GHz$HHz$z$iFz$IHz$JHz$iFz$lBz$jFz$kFz$cDz$KHz$LHz$iFz$lBz$jFz$kFz$cDz$lFz$MHz$z$iFz$lBz$jFz$kFz$cDz$lFz$NHz$OHz$PHz$QHz$KFz$RHz$SHz$THz$z$aDz$bDz$cDz$dDz$UHz$VHz$WHz$XHz$YHz$aBz$z$tFz$z$ZHz$aHz$bHz$cHz$dHz$eHz$Qz$Rz$z$WDz$XDz$fHz$gHz$hHz$iHz$jHz$kHz$z$rz$z$WDz$XDz$fHz$gHz$hHz$lHz$jHz$kHz$z$BBz$z$Vz$mHz$z$Vz$nHz$oHz$SBz$pHz$qHz$rHz$fBz$gBz$sHz$aBz$z$tHz$WDz$uHz$vHz$wHz$xHz$yHz$AIz$BIz$z$ZHz$CIz$DIz$EIz$FIz$GIz$HIz$IIz$JIz$z$KIz$LIz$FCz$MIz$yBz$aHz$NIz$OIz$IIz$JIz$z$Vz$Wz$PIz$hHz$QIz$RIz$RBz$SBz$SIz$z$rz$z$Vz$TIz$UIz$VIz$WIz$WDz$XIz$YIz$z$ZIz$aIz$aHz$NIz$bIz$dCz$eCz$fCz$gCz$z$BBz$z$rz$z$cIz$UBz$VBz$WBz$dIz$eIz$EDz$fIz$PIz$hHz$gIz$MBz$z$Vz$Wz$PIz$hHz$QIz$RIz$RBz$SBz$SIz$z$rz$z$Vz$TIz$UIz$VIz$WIz$WDz$XIz$YIz$z$ZIz$aIz$aHz$NIz$bIz$dCz$eCz$fCz$gCz$z$BBz$z$BBz$z$hIz$z$Vz$mHz$z$Vz$iIz$jIz$kIz$lIz$mIz$YIz$z$RCz$WCz$XCz$YCz$ZCz$aCz$ACz$BCz$CCz$Jz$z$RCz$WCz$XCz$nIz$oIz$pIz$qIz$rIz$rBz$sBz$tBz$uBz$z$Vz$mHz$z$Vz$sIz$tIz$uIz$vIz$wIz$xIz$JCz$KCz$yIz$xDz$AJz$BJz$CJz$z$Vz$mHz$z$DJz$EJz$z$yz$FJz"
+#!/bin/bash
+
+version="Emil PANEL"
+
+left=">>>>"
+right="<<<<"
+LINE1="---------------------------------------------------------"
+LINE2="-------------------------------------------------------------------------------------"
+
+echo "$LINE1"
+echo "> Installing dependencies be patient ... > it takes 2 to 15 minutes please wait..."
+echo "$LINE1"
+sleep 2
+echo "> start of process ..."
+sleep 1
+
+if python --version 2>&1 | grep -q '^Python 3\.'; then
+    PYTHON="PY3"
+    echo "You have Python3 image"
+elif python --version 2>&1 | grep -q '^Python 2\.'; then
+    PYTHON="PY2"
+    echo "You have Python2 image"
+else
+    echo "Python not detected"
+    exit 1
+fi
+
+if command -v apt-get >/dev/null 2>&1; then
+    INSTALL="apt-get install -y"
+    CHECK_INSTALLED="dpkg -l"
+    UPDATE="apt-get update"
+    OS='DreamOS'
+    STATUS='/var/lib/dpkg/status'
+    echo "Package Manager: apt-get (DreamOS)"
+    $UPDATE >/dev/null 2>&1
+elif command -v opkg >/dev/null 2>&1; then
+    INSTALL="opkg install"
+    CHECK_INSTALLED="opkg list-installed"
+    UPDATE="opkg update"
+    OS='OpenSource'
+    STATUS='/var/lib/opkg/status'
+    echo "Package Manager: opkg (OpenSource)"
+    rm -f /run/opkg.lock
+    rm -rf /var/cache/opkg/*
+    $UPDATE >/dev/null 2>&1
+else
+    echo "No supported package manager found"
+    exit 1
+fi
+
+is_installed_opkg() {
+    grep -q "Package: $1" "$STATUS" && grep -A1 "Package: $1" "$STATUS" | grep -q "Status: install ok installed"
+}
+
+install_package() {
+    local pkg=$1
+    echo "$LINE2"
+    sleep 0.5
+    
+    if [ "$OS" = "OpenSource" ]; then
+        if is_installed_opkg "$pkg"; then
+            echo "$pkg already installed"
+        else
+            echo -e "> Need to install ${left} $pkg ${right} please wait..."
+            $INSTALL "$pkg" >/dev/null 2>&1
+            if [ $? -eq 0 ]; then
+                echo "✓ $pkg installed successfully"
+            else
+                echo "✗ Failed to install $pkg"
+            fi
+        fi
+    else
+        if $CHECK_INSTALLED | grep -qw "^ii.*$pkg"; then
+            echo "$pkg already installed"
+        else
+            echo -e "> Need to install ${left} $pkg ${right} please wait..."
+            $INSTALL "$pkg" >/dev/null 2>&1
+            if [ $? -eq 0 ]; then
+                echo "✓ $pkg installed successfully"
+            else
+                echo "✗ Failed to install $pkg"
+            fi
+        fi
+    fi
+}
+
+BASE_PACKAGES=(
+    "wget" "alsa-plugins" "alsa-utils" "bzip2" "curl" 
+    "duktape" "dvbsnoop" "libusb-1.0-0" "libxml2" 
+    "libxslt" "openvpn" "p7zip" "rtmpdump" "unrar" 
+    "zip" "xz" "zstd" "astra-sm" "gstplayer"
+)
+
+PACKAGESPY3=(
+    "alsa-plugins" "p7zip" "wget" "python3-requests" "python3-imaging"
+    "python3-lxml" "python3-multiprocessing" "python3-pyexecjs"
+    "python3-sqlite3" "python3-six" "python3-codecs" "python3-compression"
+    "python3-difflib" "python3-xmlrpc" "python3-html" "python3-misc"
+    "python3-shell" "python3-twisted-web" "python3-unixadmin" "python3-treq"
+    "python3-core" "python3-cryptography" "python3-json" "python3-netclient"
+    "python3-pyopenssl" "python3-futures3" "libusb-1.0-0" "unrar" "curl"
+    "libxml2" "libxslt" "enigma2-plugin-systemplugins-serviceapp" "rtmpdump"
+    "duktape" "astra-sm" "gstplayer" "gstreamer1.0-plugins-good"
+    "gstreamer1.0-plugins-base" "gstreamer1.0-plugins-bad"
+    "gstreamer1.0-plugins-ugly" "alsa-utils" "openvpn" "apt-transport-https"
+    "enigma2" "enigma2-plugin-extensions-e2iplayer-deps"
+    "exteplayer3" "ffmpeg" "transmission" "transmission-client"
+    "livestreamersrv" "python3-backports-lzma" "python3-beautifulsoup4"
+    "python3-certifi" "python3-chardet" "python3-cfscrape"
+    "python3-dateutil" "python3-fuzzywuzzy" "python3-future"
+    "python3-levenshtein" "python3-mmap" "python3-mechanize"
+    "python3-ndg-httpsclient" "python3-netserver" "python3-pillow"
+    "python3-pkgutil" "python3-pycurl" "python3-pycrypto"
+    "python3-pycryptodome" "python3-pydoc" "python3-rarfile"
+    "python3-pysocks" "python3-requests-cache" "python3-transmission-rpc"
+    "python3-urllib3" "python3-zoneinfo" "alsa-conf" "alsa-state"
+    "alsa-utils-aplay" "perl-module-io-zlib" "libasound2"
+)
+
+PACKAGESPY2=(
+    "p7zip" "wget" "python-imaging" "python-lxml" "python-requests"
+    "python-pyexecjs" "python-sqlite3" "python-six" "python-codecs"
+    "python-compression" "python-difflib" "python-xmlrpc" "python-html"
+    "python-misc" "python-shell" "python-subprocess" "python-twisted-web"
+    "python-unixadmin" "python-cryptography" "python-json" "python-netclient"
+    "python-pyopenssl" "python-futures" "libusb-1.0-0" "unrar" "curl"
+    "libxml2" "libxslt" "enigma2-plugin-systemplugins-serviceapp"
+    "python-lzma" "rtmpdump" "hlsdl" "duktape" "f4mdump" "astra-sm"
+    "gstplayer" "gstreamer1.0-plugins-good" "gstreamer1.0-plugins-base"
+    "gstreamer1.0-plugins-bad" "gstreamer1.0-plugins-ugly"
+    "alsa-plugins" "alsa-utils" "openvpn" "apt-transport-https"
+    "enigma2" "enigma2-plugin-extensions-e2iplayer-deps"
+    "exteplayer3" "ffmpeg" "transmission" "transmission-client"
+    "python-argparse" "python-beautifulsoup4" "python-certifi"
+    "python-chardet" "python-mechanize" "python-mmap"
+    "python-ndg-httpsclient" "python-pycrypto" "python-pydoc"
+    "python-robotparser" "python-urllib3" "alsa-conf" "alsa-state"
+    "alsa-utils-aplay" "perl-module-io-zlib" "libasound2"
+)
+
+if [ "$PYTHON" = "PY3" ]; then
+    PACKAGES=("${BASE_PACKAGES[@]}" "${PACKAGESPY3[@]}")
+else
+    PACKAGES=("${BASE_PACKAGES[@]}" "${PACKAGESPY2[@]}")
+fi
+
+PACKAGES=($(echo "${PACKAGES[@]}" | tr ' ' '\n' | sort -u | tr '\n' ' '))
+
+echo ""
+echo "Installing Required Packages..."
+echo "$LINE1"
+
+for PACKAGE in "${PACKAGES[@]}"; do
+    install_package "$PACKAGE"
+done
+
+echo ""
+echo "> Installing additional libraries based on Python version..."
+sleep 1
+
+python_version=$(python -c "import platform; print(platform.python_version())" 2>/dev/null)
+if [ $? -ne 0 ]; then
+    python_version=$(python --version 2>&1 | awk '{print $2}')
+fi
+
+case $python_version in
+    2.7.*)
+        echo "Installing Python 2.7 specific libraries..."
+        $INSTALL libavcodec58 libavformat58 libpython2.7-1.0 >/dev/null 2>&1
+        ;;
+    3.9.*)
+        echo "Installing Python 3.9 specific libraries..."
+        $INSTALL libavcodec58 libavformat58 libpython3.9-1.0 >/dev/null 2>&1
+        ;;
+    3.10.*)
+        echo "Installing Python 3.10 specific libraries..."
+        $INSTALL libavcodec60 libavformat60 libpython3.10-1.0 >/dev/null 2>&1
+        ;;
+    3.11.*)
+        echo "Installing Python 3.11 specific libraries..."
+        $INSTALL libavcodec60 libavformat60 libpython3.11-1.0 >/dev/null 2>&1
+        ;;
+    3.12.*)
+        echo "Installing Python 3.12 specific libraries..."
+        $INSTALL libavcodec60 libavformat60 libpython3.12-1.0 >/dev/null 2>&1
+        ;;
+    3.13.*)
+        echo "Installing Python 3.13 specific libraries..."
+        $INSTALL libavcodec60 libavformat60 libpython3.13-1.0 >/dev/null 2>&1
+        ;;
+    *)
+        echo "No specific libraries for Python version $python_version"
+        ;;
+esac
+
+echo ""
+echo "> Cleaning cache and updating feeds..."
+if [ "$OS" = "OpenSource" ]; then
+    rm -rf /var/cache/opkg/* >/dev/null 2>&1
+    rm -rf /var/lib/opkg/lists/* >/dev/null 2>&1
+    rm -rf /run/opkg.lock >/dev/null 2>&1
+    echo "> cache is cleaned... updating feeds please wait..."
+    opkg update >/dev/null 2>&1
+else
+    apt-get clean >/dev/null 2>&1
+fi
+
+echo ""
+echo "$LINE1"
+echo "> All dependencies installed successfully!"
+echo "> Process completed successfully."
+echo "$LINE1"
+echo ""
+sleep 3
+
+echo "You can now use your system normally."
+echo "If you need to reboot, please do it manually."
+echo ""
+
+exit 0
 
