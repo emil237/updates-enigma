@@ -102,6 +102,14 @@ BASE_PACKAGES=(
     "zstd"
     "astra-sm"
     "gstplayer"
+    "kernel-module-nandsim"
+    "mtd-utils-jffs2"
+    "lzo"
+    "util-linux-sfdisk"
+    "packagegroup-base-nfs"
+    "ofgwrite"
+    "mtd-utils"
+    "mtd-utils-ubifs"
 )
 
 PACKAGESPY3=(
@@ -185,6 +193,7 @@ PACKAGESPY3=(
     "alsa-utils-aplay"
     "perl-module-io-zlib"
     "libasound2"
+    "python3-setuptools"
     "kernel-module-nandsim"
     "mtd-utils-jffs2"
     "lzo"
@@ -262,6 +271,7 @@ PACKAGESPY2=(
     "alsa-utils-aplay"
     "perl-module-io-zlib"
     "libasound2"
+    "python-setuptools"
     "kernel-module-nandsim"
     "mtd-utils-jffs2"
     "lzo"
