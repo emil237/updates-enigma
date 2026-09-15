@@ -1,3 +1,677 @@
-z="
-";gTz='N" =';LMz='s-cu';nEz='ibus';kWz='>&1';dz='mp/e';OEz='|wir';GWz=' pac';xHz=' -lt';NLz='moni';wEz='ca-c';NWz='t av';QIz='on..';Scz='e)" ';rbz='ssfu';eNz='lien';sTz='HON_';Oz='BLUE';BEz='anag';Qcz='llat';GBz='US="';gPz='nize';OCz='"${R';vEz='to*|';NOz='zone';fWz='-y "';pz='p/em';qPz='on-a';BXz='cho ';ebz='}Res';Zdz='ay t';qCz='ARNI';XQz=' -y"';oBz=' "[$';xPz='mail';Adz='erne';ocz='s ro';IQz='ng p';sPz='rse';nHz='son}';Pz='='\''\0';xFz='_CHE';DGz='.8 >';dPz='hard';OBz='ON="';KSz='st (';Qdz='t 1';nKz='eame';hXz='    ';Iz='m'\''';BJz=' or ';Cbz='line';wTz=' ]; ';AXz='=$(e';DFz='togr';gz='ages';uFz=' -W ';WEz='fkil';HSz='pdat';JXz='coun';qBz='e '\''+';HYz=' to ';HHz='afte';ESz='"Fai';COz='aniz';HKz='p7zi';SXz='d_co';JHz='_cou';Ecz='ally';GMz='rplu';CHz='"Net';CIz='elap';uJz='2';kLz='er';sKz='e';MLz='-com';vMz='ing';Daz='ndar';wcz='8.8.';Cz='3[0;';XBz='LAY=';JYz='} $m';VYz='lay:';dXz='t=$(';BYz='tal ';EIz='$((e';AQz='on-z';LXz='l mi';OZz='ed_c';rPz='rgpa';Ibz='w fu';caz=' "Cl';xBz=' >> ';OSz='y)"';hRz='S_TY';oHz=' - $';rWz='g"';NMz='tedi';Cdz='nnec';SHz='over';vTz=' = "';aUz=' $py';pHz='{sec';tPz='dna';SBz='N=""';cWz='}"';mdz='u ca';hdz='ort';uEz='cryp';ITz='ed";';TVz='or P';DPz='on-m';QNz='pc';nQz='ream';qEz='libs';dWz='"Alr';DNz='pyex';pLz='twar';KFz='rl|w';yUz='orma';UEz='lan|';Fz='N='\''\';yFz='CK_T';lTz='ll_p';taz=' Typ';JVz='2-1.';UCz='succ';aVz='= "D';mbz='a2 2';YSz='^Pac';cRz='dati';rUz='*) l';vUz='dec6';nTz='$PAC';HCz='OR: ';vHz='$ela';qSz='age:';RLz='gnme';TEz='less';ddz='utes';yCz='> "$';mPz='pars';eBz='Y=15';jSz='"^Pa';NTz=' "^$';tz='og"';iWz='kg" ';JEz='ant|';QJz='rm.p';BNz='ipro';RVz='"No ';NVz='1 li';yDz='netw';TPz='ient';jBz='MEOU';ALz='E2_I';ERz='g in';pRz='un/o';IKz='p';wNz='leve';PLz='face';pBz='(dat';tVz='tal=';DZz='=$((';Sz=''\''';tCz='info';xEz='erti';iPz='ycry';SVz='es f';PIz='ersi';ARz='"Ope';AHz=' 0 ]';Fcz='W}Co';sCz='{NC}';Vcz='"Emi';DOz='nets';VBz='CKAG';SJz='n())';vcz='3 8.';vWz='$(ge';daz='eani';oDz='is_n';XPz='zma';THz=' wit';KYz='ng_c';EYz='ed:$';KXz='t=0';yRz='t up';SIz='ytho';eZz='ed p';WYz='} ${';xcz='8 > ';rEz='sl*|';tbz='W}Au';POz='ptoo';TCz='>&2';hWz=' "$p';Wcz='l Pa';PDz='mil ';pMz='AGES';QDz='Pack';gDz=' ""';FXz='c -l';kz='"';ADz='"${B';vNz='re';maz='lean';WMz='s-im';ENz='ecjs';eFz='rn 1';gMz='enwe';BSz='cces';KJz='mpor';eEz='-cli';vbz='esta';ucz='ecti';rNz='date';EEz='an|c';MBz='ON_V';SKz='laye';PPz='on-j';iGz='l ma';qKz='d';SWz=' fou';cJz=' "Py';Sbz='ART"';qIz='.'\''; ';ZSz=':"';IDz='r';Qz='33[0';jPz='pto';CCz='}';YLz='ser';lBz='log(';jWz='E" 2';HBz='AUTO';MQz='nd -';CGz='.8.8';hLz='etup';yWz='tal_';uDz=' "$1';JLz='in-s';BGz='UT 8';WQz=' ins';WJz='l ||';bcz='rted';ZOz='on-r';cXz='es" ';VLz='app';lNz='beau';AOz='mmap';lWz='}✓ I';LTz='>/de';Rcz='at $';sYz='; do';VWz='if i';UJz='/dev';DLz='_PLU';ycz='"Int';Ydz='is m';udz=' Fin';LKz='unra';mJz='S="';EGz=' /de';paz='REPO';hEz='el-m';iBz='K_TI';ULz='vice';xCz='1" >';jXz='ACKA';eIz='3 de';kaz=' cac';Udz='equi';eHz='l re';Fbz='tail';dRz='ge l';wVz='unt/';QRz='Sour';jUz='58 l';yYz=' $re';eLz='-pos';Haz='FINA';sFz='ing ';bPz='soup';IYz='all:';cUz='2.7*';PWz='ble:';GZz='1)) ';oKz='r1.0';gLz='ners';xVz='$tot';pNz='char';FDz='_hea';UIz='vers';tMz='ests';Zz='[0m'\''';XOz='dist';mFz='e [ ';ISz='e pa';pPz='tool';kTz='="$a';yHz=' $se';tJz='bzip';pCz='W}[W';XXz='="$m';GKz='slt';hFz='k() ';TFz='ckag';aZz='ep $';iQz='g/st';oTz='S_PY';UWz='rn 2';kFz='0';Wdz='...$';yEz='fica';QFz='d|po';xbz='isab';DUz=''\'' '\''\';sdz='rmal';eSz='ow "';CUz='r '\'' ';EBz='TE="';QGz='done';gVz=' $li';YVz=': $l';raz='W}Sy';pTz='3"';uGz='; th';uHz='d=0';lUz='2.7-';iVz='&1';WWz='s_pa';GLz='enig';dFz='esac';PXz='in $';FTz=' "St';TMz='aphm';aYz='sing';CJz='unsu';wCz='O: $';CMz='dias';UQz='"apt';LNz='ress';VNz='twis';Dcz='manu';JFz='l|cu';CYz='tota';HEz='-sup';gZz='ensu';ABz='ALL=';kcz='pt m';xXz='C} $';pKz='-goo';MFz='nfs-';bSz='?';sGz='if c';lSz='is_p';vVz='[$co';nRz='rm -';UKz='s-jf';NJz='rm; ';WHz='it}s';jIz='rsio';KLz='yste';jGz='x_wa';Vbz='star';FHz=' onl';eTz='ES $';tNz='ywuz';LRz='ate"';sDz='ge()';sUz='ibs=';ZQz='pkg ';pdz='e yo';Jaz='PORT';fCz='}[SU';Vaz='nt -';bQz='apt-';xWz='ist)';HMz='gin';cHz='s="$';PNz='xmlr';JUz='inst';TTz=' -qw';gBz='TRIE';RJz='n_ve';aOz='eque';OUz='s() ';dVz='all ';iaz=' cle';MNz='ion';xTz='2"';vOz='iffl';yMz='lxml';Zbz=' in ';ncz='un a';aIz='hon ';pUz='3.9-';FPz='hell';Zaz='fail';MUz='ific';Taz='eds)';iUz='rmat';XLz='brow';cz='="/t';kJz='_PAC';WTz='get_';pIz='n 2\';wSz=' && ';fcz='!= "';SOz='adin';RWz='log ';Ndz=' fai';JPz='wist';LBz='PYTH';Paz='W}Sk';hVz='bs >';MPz='on-u';bNz='core';bGz='bili';bWz='${NC';xIz='not ';cSz='cach';mBz=') {';aLz='eomo';RHz=' rec';Xcz='e In';cMz='s-za';uKz='-ugl';PQz='t > ';VRz='ger ';mHz='{rea';IVz='3.12';DMz='cann';sIz='PY2"';mNz='tifu';dGz='.${N';LWz='W}Pa';TRz='o su';LEz='supp';ubz='to-r';Bdz='t co';IUz='^$'\''';WPz='es';ROz='thre';ZGz='k to';CVz='n3.1';kSz='e:"';HWz='_exi';YBz='8';fJz='YTHO';vCz=' INF';vIz='UNKN';hz='_ins';pDz='etwo';Xbz=' Eni';fDz='ly${';TOz='g';eGz='l wa';Jz='YELL';WCz=' SUC';jQz='atus';abz='3 se';LVz='3-1.';EHz='back';FEz='an-*';lz='PROT';DIz='sed=';URz='mana';UTz=' "^i';GXz=')';EWz='kg${';VTz='i.*$';HFz='sl|p';oRz='f /r';JJz='c "i';USz=' inf';wBz=' $1"';AIz='s ];';Wz='NTA=';LLz='mplu';lIz='&1 |';TQz='amOS';YOz='_PY2';HTz='l ok';Lbz=' cat';DVz='0-1.';aJz=' $2}';XIz='rep ';Icz='illa';OLz='nter';LHz='nt=$';sQz='opkg';mSz='ge_i';tIz='2 de';LDz='====';QPz='son';UMz='ulti';wPz='on-e';pOz='on-c';oIz=' '\''^P';FIz='laps';Uz=';36m';KKz='dump';VVz='n $p';tQz=' > /';fIz='ed"';qNz='det';oVz='age(';qz='il_p';BKz='libu';qLz='eman';yz='INST';dZz='elat';jLz='find';MDz='=${N';GEz='|wpa';iIz='--ve';eCz='REEN';XRz='d"';gKz='IMPO';RDz='age ';vJz='curl';BOz='mech';Kcz='9 en';jTz='all_';NEz='nt-*';gNz='futu';xKz='play';nYz='iled';Nz='3m'\''';oSz='lled';Ocz='arti';rJz='-uti';lOz='on-s';WIz=' | g';VCz='ess(';Tcz='"===';KEz='wpa-';RRz='ce)"';hHz=' -n ';Ccz='art ';rZz='ble,';iHz='"$re';yPz='ml';QXz='t; d';nBz='echo';CKz='sb-1';rdz='m no';NCz=' -e ';tcz='conn';dQz='upda';fSz='$pkg';SMz='s-gr';bTz='es="';Hdz='rnet';DRz='"opk';obz='}Eni';lXz='NSTA';SUz='ion-';dcz='id -';LCz='_FIL';LPz='eb';kBz='T=3';GRz='l"';ANz='mult';RQz='&1; ';MVz='3.14';YJz=' '\''{p';ATz='e: $';dLz='ne';gIz='elif';Edz='ilab';VIz='2>&1';ZXz='ng_p';mXz='LLAT';VXz='miss';oEz='b-1.';DKz='.0-0';rFz='if p';GHz='ine ';ICz='$1" ';fYz='s ar';UNz='l';jOz='yexe';RZz='3) a';HLz='ma2-';LUz='spec';kYz='l su';vFz='$NET';hbz='ma2.';fQz='/var';cCz='ILE"';wOz='ib';yLz='in-e';QMz='lebr';ZNz='admi';STz='K 2>';XSz='-q "';jYz='led!';TXz='$((i';iLz='-sat';xDz='vpn|';XNz='web';jbz='kill';KCz='$LOG';PJz='t(pl';hZz='ring';qWz='led:';Saz='n fe';nLz='ecto';GSz='to u';FYz=' $in';UPz='on-f';adz='ake ';SRz='r "N';Jcz='ll -';sLz='-tem';oYz='nt=0';WZz=' $co';uZz='ng w';uUz='avco';hYz='read';AKz='noop';IIz='thon';kIz='n 2>';GGz='ll 2';iFz='loca';Laz='full';iz='tall';FUz=' sor';Jdz='nect';YYz='] ||';bRz=' "Up';JIz='_ver';JTz='if o';Ebz=' log';uPz='hrea';jDz='or()';FKz='ml2';Gbz='15 "';QUz='ling';icz='his ';sSz='g" "';FCz='{';Mz='[1;3';BMz='s-me';OTz='pkg[';eUz='liba';aSz='rn $';uTz='ION"';NUz='_lib';kDz=' {';KNz='comp';acz=' Sta';kKz='ffmp';OPz='dmin';bLz='de';GOz='ile';aKz='k';dIz='"Pyt';ZYz='$mis';jRz='= "O';DXz='ist"';eJz=': $P';oz='"/tm';rz='rote';aTz='l_pa';ASz='d su';kUz='ibpy';eXz=' "$m';GCz=' ERR';pEz='0-0|';oZz='k; t';ez='mil_';aHz='l se';hcz='r "T';kGz='it=3';EQz='e_ma';IXz='led_';nCz='"${Y';MXz='ssin';gdz='t...';dEz='dhcp';APz='c';lZz=' wai';xJz='ape';XTz='_lis';DDz='O]${';fFz='chec';FOz='rarf';NZz='kipp';dKz='s';CXz='"$pa';tOz='on';qZz='ll u';ZIz='^Pyt';vBz='S'\'')]';bCz='OG_F';GPz='ubpr';lPz='obot';NBz='ERSI';FWz='if !';oQz='OS)"';vZz='ait.';NPz='nixa';RPz='on-n';qHz='onds';TIz='n --';MKz='zip';XYz=' -z ';ZFz='sim)';dSz='e sh';gEz='kern';DBz='UPDA';fdz='ease';KDz='YAN}';nbz='ll';fRz='.."';fLz='itio';uRz='TE >';fPz='echa';iKz='T_PA';hMz='bif';eMz='tory';jJz='BASE';fOz='on-p';kEz='firm';NHz=' + 2';WUz='l py';GIz='ed +';BFz='cert';CEz='er|c';ecz='u)" ';QBz='UBVE';OYz='y:${';NFz='util';Ddz=' ava';Pcz='ng i';Lz='\033';Dbz='s of';RUz=' Pyt';sJz='ls';vXz=' Ver';BDz='LUE}';LOz='urll';ETz='S" |';Mbz='rest';PTz='[:sp';DSz='ly"';Rz=';34m';oJz='alsa';eaz='ge c';tEz='|lib';HJz='pyth';RXz='o';gGz='ount';UUz='rari';iEz='odul';YNz='unix';ccz=' "$(';xSz=' -A1';JRz='-ins';Hbz=' vie';PMz='s-fi';ZDz='Edit';bZz='Y "N';OMz='tor';UBz='R_PA';tYz='(cou';Gaz='   I';CFz='ifi|';WSz='pkg"';mIz=' gre';RIz='."';Vz='MAGE';mLz='nsel';FFz='|pyo';PFz='cbin';YRz='te_p';oCz='ELLO';rVz='"$2"';QOz='idna';kXz='GE I';ZHz='ep()';cLz='eotu';hQz='/dpk';ZWz='eady';TWz='nd: ';sMz='requ';wRz='kage';AZz='0) s';xZz='0 "E';kOz='cjs';ybz='led.';sRz=' 2>/';nXz='ION ';MHz='((wa';hJz='BVER';TSz='g="$';kCz='ing(';sVz='l to';nz='LOG=';Vdz='red ';Xaz='ED}F';SCz='NC} ';uXz='W}Py';aMz='epla';cNz='json';ePz='et';YZz='s_ne';VKz='fs2';dTz='E_PA';uMz='imag';MOz='ib3';ZRz='ge_l';AMz='xten';Kz='OW='\''';ZPz='eaut';fEz='ent|';MSz='ng a';hSz='grep';Qbz='UTO_';PUz=' "In';WXz='ing_';kVz='es s';YHz='_sle';Kaz='}Suc';YUz='l li';Bbz=' 15 ';NNz='diff';Ycz='ler ';jcz='scri';uNz='zy';uaz='e:${';EVz='0" ;';rBz='%Y-%';eWz='rn 3';DTz='TATU';YGz='r ne';QKz='a-sm';oPz='b3';fXz='c -w';cdz=' min';vDz='" in';bYz='nt" ';MGz='(i +';vGz='en';Obz='ma2(';OWz='aila';TLz='-ser';nNz='lsou';nOz='e3';mUz='1.0"';BQz='istu';ZVz='ibs"';HPz='oces';gSz='l | ';vKz='y';aDz='ion ';dNz='netc';XZz='nt ]';NKz='xz';lDz='----';iDz='arat';Aaz='ork ';gQz='/lib';eKz='s-ub';BZz='ucce';UZz='alre';HGz='>&1;';bJz=''\'')';Kbz='og:$';rHz='}s${';HZz='1) f';TBz='INTE';nSz='nsta';VDz='.1${';fBz='K_RE';lVz='tabi';Maz='} $s';jHz='" ];';XUz='="$P';AEz='orkm';LIz=' "De';Ubz='W}Re';pYz='l sk';wdz=' 0';cTz='$BAS';RYz='Y}s"';dCz='"${G';Ybz='gma2';MEz='lica';QHz=' not';IZz='aile';EKz='libx';sBz='m-%d';PEz='eles';mYz='l fa';Uaz=' $fa';ILz='plug';NDz='C}"';ZKz='fdis';UFz='egro';mWz=': $p';naz='_rep';iCz='$1"';cBz='AGE_';FSz='led ';qFz=' do';xz='PKG_';lYz='s_co';tRz='if $';UDz='r v5';IHz='r ${';tWz='es_l';LYz='W}In';kZz='lity';lRz='ourc';REz='ols|';vaz='W}Lo';JNz='cs';aCz=' "$L';DEz='onnm';HRz='K="o';gOz='illo';OFz='s|rp';fbz='tart';cIz='PY3"';HNz='six';tFz='-c 1';Raz='ot i';jEz='e-*|';ZTz='l al';SFz='p|pa';lJz='KAGE';OIz='on v';uWz='ist=';CZz='ss_c';yOz='mlrp';DQz='k_pa';Caz='"Sta';FJz='ion"';cFz=';;';RNz='html';tXz='TYPE';bOz='sts';mDz='-${N';qOz='odec';uCz='() {';EPz='isc';KRz=' upd';cPz='4';ySz=' "Pa';baz='e() ';SSz='l pk';pSz='if g';Waz='gt 0';pXz='ARY$';cbz='p 3';nWz='"Ins';CBz='K=""';yaz=' $LO';CQz='tils';SDz='Inst';KQz='er..';bBz='PACK';bVz='OS" ';DJz='ppor';nFz='$i -';tUz='"lib';wIz='OWN"';mTz='ges ';idz='ma2';XVz='r"';EZz='ess_';tdz='ly.$';VOz='xml';uYz='$cou';wFz='WORK';VJz='/nul';VHz='${ma';pQz=' com';PCz='ED}[';EFz='aphy';NQz='v ap';cDz='twor';QWz='g${N';ibz='..${';rOz='ompr';XFz='nfs|';IBz='_RES';BRz='nSou';LJz='t pl';bXz='"$mi';dMz='phis';bFz='rn 0';WLz='-net';mVz='liza';dJz=' ver';xQz='1; t';lEz='ware';vz='YPE=';xRz=' lis';bz='FILE';Dz='31m'\''';BPz='on-h';AFz='tes|';gaz='..."';KTz='ed 2';mQz='d (D';RMz='owse';lGz='$wai';fZz='ge, ';Tbz='1" ]';pVz='l co';ELz='GINS';GYz='t"';ndz='n no';WRz='foun';bHz='cond';faz='ache';jMz='srea';PGz='p 2';xGz=' $wa';kHz='[WAI';sWz='l pa';vPz='ding';INz='code';qUz='3.10';QCz='ERRO';Rdz='ist';jFz='l i=';TJz='" 2>';NXz='g_pa';eRz='ist.';hIz=' pyt';KWz='g"; ';Faz='y"';KGz='fi';AYz='W}To';MWz='e no';KVz='3.13';GJz='N=$(';IRz='list';pWz=' Fai';wUz='0 li';QVz='*)';Ldz='ome ';dUz=') li';iMz='s-rs';VEz='iw|r';fz='pack';MRz='/opk';rRz='lock';KPz='ed-w';fNz='t';gWz='1';uSz='_STA';mCz='NING';uIz='else';eOz='ng';gCz='CCES';VQz='-get';nDz='_big';Bz=''\''\03';dBz='DELA';uz='OS_T';lQz='ecte';yBz='"$LO';EUz='n'\'' |';YDz='afe ';QLz='assi';Abz='Last';rCz='NG]$';PZz='skip';KZz='+ 1)';JSz='e li';YXz='issi';VSz='o "$';Pdz=' exi';Xdz='W}Th';OHz='))';Nbz='art_';WGz='itin';mOz='qlit';yJz='dvbs';PSz='age_';TUz=' lib';Yz='NC='\''';yIz='dete';nUz=' ;;';OXz='for ';ZBz='NETW';qVz='unt=';gJz='N_SU';SGz='_for';tSz='$PKG';EOz='erve';fTz='N_VE';sHz='l el';rDz='acka';aEz='cpcd';VFz='up-b';mcz='be r';BHz='ess ';VZz='ady_';sXz='$OS_';pcz='ot"';lMz='s-e2';QEz='s-to';aBz='ORK_';aQz='-l"';GQz=' "Ch';sbz='lly!';bMz='yer';vQz='null';lFz='whil';IGz=' the';XHz='safe';TDz='alle';hOz='w';bUz=' in';BVz='libp';aFz='retu';kNz='ma';HUz='-v '\''';pGz='$max';fKz='ifs';MIz='tect';ECz='r() ';UOz='emai';dOz='magi';bKz='ofgw';yTz=' "$a';RFz='rtma';xYz='=$?';eYz='"All';ACz='G_FI';WDz='NC}"';ZMz='ctur';qYz='ippe';dDz='k Fr';pZz=' sti';RSz='ts()';Tdz='ng r';sZz=' ext';QQz='l 2>';DHz=' is ';Mdz=' may';lLz='-ski';vYz='unt"';aPz='iful';iZz=' Wi-';tZz='endi';fUz='vcod';qGz='_wai';TZz='dy_c';YTz='t() ';IMz='s-au';wWz='t_pa';NSz='nywa';oMz='deps';lCz=' WAR';YWz='}Alr';iRz='PE" ';QYz='TER_';VMz='epg';FVz=';';jdz='}Pro';UXz='nt +';mz='ECT_';uLz='cont';WBz='E_DE';nIz='p -q';KIz='sion';hDz='_sep';CPz='tml';ONz='lib';RBz='RSIO';Eaz='d in';rYz='y_co';qaz='RT${';az='LOG_';HDz='clea';UHz='hin ';wJz='dukt';UVz='n ve';IFz='ycur';iNz='port';aRz='ist(';XWz='e_in';dHz='1"';cGz='ze..';TGz='_net';uOz='on-d';DCz='erro';FMz='athe';cOz='on-i';iTz='3" ]';tTz='VERS';Acz=' Ple';EMz='s-we';iXz='   P';FGz='v/nu';JOz='-cac';CWz=' ${Y';tGz='heck';DWz='W}$p';IEz='plic';GNz='te3';NRz='g de';gFz='k_ne';Zcz='v5.1';AUz='ges"';sNz='fuzz';LFz='get|';UGz='work';oaz='ort(';KUz='ion_';nPz='rlli';IWz='sts ';Hcz='d: k';CDz='[INF';mRz='e" ]';Rbz='REST';YFz='nand';LZz=') ;;';HOz='pyso';MTz='ll |';nVz='tion';OGz='slee';MMz='tlis';qbz='ed s';lKz='eg';JKz='rtmp';vRz='"Pac';qJz='gins';nMz='yer-';uVz='"$3"';UYz='e de';qdz='ur s';qcz='exit';uBz='%M:%';wLz='-gra';kbz='-9 e';fVz='LE" ';JMz='dios';GTz=': in';qMz='_PY3';qRz='pkg.';qDz='rk_p';dbz=' "Re';SYz='W}Ne';Gcz='mman';odz='w us';wZz='ep 1';gUz='ec58';OQz='t-ge';Ucz='=="';aNz='treq';lcz='ust ';GFz='pens';hNz='res3';tHz='apse';oWz='ED}✗';LSz='inui';nGz='unt ';yZz='ded ';OJz='prin';QTz='ace:';BBz='CHEC';dYz='0 ];';JDz='"${C';KOz='he';yNz='ein';PVz='4-1.';yGz=' -gt';ldz='W}Yo';YKz='ux-s';Lcz='igma';CSz='sful';jaz='aned';rcz=' 1';XKz='-lin';ZZz='e "$';KMz='ync';gYz='e al';cKz='rite';bdz='5-30';oLz='-sof';fMz='s-op';Gdz='inte';QZz='ped_';oXz='SUMM';aGz=' sta';eDz='iend';EDz='show';MCz='E"';sEz='ssl*';lbz='nigm';cVz=']; t';mMz='ipla';Ez='GREE';tLz='pfan';AJz='cted';hUz='avfo';wYz='sult';vSz='TUS"';hKz='RTAN';Gz='033[';rXz='r:${';Baz='LAY ';SEz='wire';cZz='rk-r';fHz='ason';xNz='nsht';ZUz='bs="';YEz='stap';AGz='IMEO';iSz=' -q ';xOz='on-x';Sdz='alli';IOz='cks';RCz='R]${';BIz='p 1';nZz='r_ne';rGz='t ];';ODz='   E';iOz='on-l';FQz='nage';HVz='1-1.';cQz='get ';Oaz='} $a';mZz='t_fo';wz='""';wQz=' 2>&';jCz='warn';hTz=' "PY';kMz='der';ZJz='rint';XEz='l|ho';jz='.log';fGz='it_c';Kdz=' - s';LQz='omma';haz='rce ';rLz='ager';wMz='pill';SLz='nt';eQz='te"';gbz='Enig';VUz='es..';JQz='ge m';Pbz=' "$A';Bcz='ase ';Odz='r ||';cEz='cpc|';qXz='e Ma';kPz='ydoc';JZz='$((f';bEz='|udh';KBz='=1';gHz='="$2';SZz='lrea';pFz='S ];';IJz='on -';sOz='essi';TYz='k pa';HXz='l in';JCz='>> "';qTz=' [ "';MJz='atfo';NIz='Pyth';AVz='t60 ';Naz='W}Al';Mcz='2${N';AWz=' Ins';hGz='=0';wGz='if [';WOz='zlib';vLz='rol';DYz='es"';oUz='3.9*';BTz=' "$P';iJz='SION';laz='he c';GDz='der(';xaz='le:$';JBz='TART';PRz='Open';CNz='cess';bIz='3\.'\''';wKz='exte';mGz='t_co';nJz='wget';oGz='-lt ';wHz='psed';XCz='CESS';wDz='open';FRz='stal';hPz='map';XDz='   S';KHz='nt}s';kRz='penS';VPz='utur';OVz='t61 ';RGz='wait';aXz='g_co';NYz='dela';vdz='ishe';FZz='t + ';Xz='35m'\''';kQz=' det';Yaz='d to';XJz=' awk';LGz='i=$(';WNz='ted-';Tz='CYAN';pJz='-plu';gXz='or';yQz='hen';rSz=' $pk';BCz='LE"';CTz='KG_S';JWz='"$pk';TNz='shel';TKz='mtd-';XGz='g fo';yVz='al]$';tDz='case';RTz=']]";';WKz='lzo';ZLz='-vid';oNz='p4';bbz='s...';tKz='-bad';Fdz='le"';Az='RED=';jVz='ep 5';hBz='S=3';xLz='b';jKz='ES="';cYz='-eq ';GVz='3.11';mEz='-*|l';YCz=': $1';QSz='exis';lHz='T] $';XMz='db';IPz='on-t';Idz=' con';CLz='TANT';pbz=' res';aWz='ed: ';PBz='ON_S';yXz='N"';WFz='ase-';CRz='rce"';SQz='"Dre';kdz='plet';YIz='-q '\''';rQz=' -v ';FNz='sqli';wXz=':${N';OOz='setu';rIz='then';aaz='nup_';PYz='${IN';HIz='k_py';BWz='ing:';BUz=' | t';VGz='W}Wa';mKz='gstr';FBz='STAT';rMz='on3-';gcz='0" ]';YPz='on-b';Ncz='main';xUz='bavf';BLz='MPOR';WVz='y_ve';scz='net ';PKz='astr';YQz='K="d';xMz='ow';NGz=' 1))';SPz='etcl';eVz='-y $';oFz='lt $';ZEz='d|dh';Iaz='L RE';MZz='2) s';bDz='- Ne';JGz='n';GUz='t -u';saz='stem';YMz='s-pi';Qaz='d (n';rTz='$PYT';uQz='dev/';iYz='y in';HQz='ecki';rKz='-bas';PHz=' did';gRz=' "$O';RKz='gstp';edz=', pl';SNz='misc';Jbz='ll l';waz='g fi';hCz='S]${';OKz='zstd';jZz='Fi s';tBz=' %H:';sz='ct.l';EJz='ted ';yKz='er3';ZCz='" >>';FLz='="';Hz='0;32';oOz='ix';wbz='rt d';EXz=' | w';ORz='ed (';qQz='mand';jNz='s-lz';Wbz='ting';MYz='ter-';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$z$Oz$Pz$Qz$Rz$Sz$z$Tz$Pz$Qz$Uz$Sz$z$Vz$Wz$Bz$Cz$Xz$z$Yz$Lz$Zz$z$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$z$lz$mz$nz$oz$pz$qz$rz$sz$tz$z$uz$vz$wz$z$xz$yz$ABz$wz$z$xz$BBz$CBz$z$xz$DBz$EBz$kz$z$xz$FBz$GBz$kz$z$HBz$IBz$JBz$KBz$z$LBz$MBz$NBz$OBz$kz$z$LBz$PBz$QBz$RBz$SBz$z$TBz$UBz$VBz$WBz$XBz$YBz$z$ZBz$aBz$bBz$cBz$dBz$eBz$z$ZBz$aBz$BBz$fBz$gBz$hBz$z$ZBz$aBz$BBz$iBz$jBz$kBz$z$lBz$mBz$z$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$z$CCz$z$DCz$ECz$FCz$z$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$z$nBz$NCz$OCz$PCz$QCz$RCz$SCz$ICz$TCz$z$CCz$z$UCz$VCz$mBz$z$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$z$nBz$NCz$dCz$eCz$fCz$gCz$hCz$SCz$iCz$z$CCz$z$jCz$kCz$mBz$z$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$lCz$mCz$YCz$ZCz$aCz$bCz$cCz$z$nBz$NCz$nCz$oCz$pCz$qCz$rCz$sCz$wBz$z$CCz$z$tCz$uCz$z$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$vCz$wCz$xCz$yCz$az$bz$kz$z$nBz$NCz$ADz$BDz$CDz$DDz$SCz$iCz$z$CCz$z$EDz$FDz$GDz$mBz$z$HDz$IDz$z$nBz$NCz$JDz$KDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$MDz$NDz$z$nBz$NCz$JDz$KDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$z$nBz$NCz$JDz$KDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$WDz$z$nBz$NCz$JDz$KDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$MDz$NDz$z$nBz$gDz$z$CCz$z$EDz$hDz$iDz$jDz$kDz$z$nBz$NCz$JDz$KDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$mDz$NDz$z$CCz$z$EDz$nDz$hDz$iDz$jDz$kDz$z$nBz$NCz$JDz$KDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$lDz$mDz$NDz$z$CCz$z$oDz$pDz$qDz$rDz$sDz$kDz$z$tDz$uDz$vDz$z$wDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$DEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$wDz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$uEz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$ZFz$z$aFz$bFz$z$cFz$z$dFz$z$aFz$eFz$z$CCz$z$fFz$gFz$cDz$hFz$FCz$z$iFz$jFz$kFz$z$lFz$mFz$nFz$oFz$ZBz$aBz$BBz$fBz$gBz$pFz$qFz$z$rFz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$GGz$HGz$IGz$JGz$z$aFz$bFz$z$KGz$z$LGz$MGz$NGz$z$OGz$PGz$z$QGz$z$aFz$eFz$z$CCz$z$RGz$SGz$TGz$UGz$uCz$z$nBz$NCz$nCz$oCz$VGz$WGz$XGz$YGz$cDz$ZGz$aGz$bGz$cGz$dGz$NDz$z$iFz$eGz$fGz$gGz$hGz$z$iFz$iGz$jGz$kGz$kFz$z$lFz$mFz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$qFz$z$sGz$tGz$TGz$UGz$uGz$vGz$z$wGz$xGz$fGz$gGz$yGz$AHz$uGz$vGz$z$UCz$BHz$CHz$UGz$DHz$EHz$FHz$GHz$HHz$IHz$RGz$JHz$KHz$kz$z$KGz$z$aFz$bFz$z$KGz$z$RGz$JHz$LHz$MHz$fGz$gGz$NHz$OHz$z$OGz$PGz$z$QGz$z$jCz$sFz$CHz$UGz$PHz$QHz$RHz$SHz$THz$UHz$VHz$jGz$WHz$kz$z$aFz$eFz$z$CCz$z$XHz$YHz$ZHz$kDz$z$iFz$aHz$bHz$cHz$dHz$z$iFz$eHz$fHz$gHz$kz$z$wGz$hHz$iHz$fHz$jHz$IGz$JGz$z$nBz$NCz$JDz$KDz$kHz$lHz$mHz$nHz$oHz$pHz$qHz$rHz$WDz$z$KGz$z$iFz$sHz$tHz$uHz$z$lFz$mFz$vHz$wHz$xHz$yHz$bHz$AIz$qFz$z$OGz$BIz$z$CIz$DIz$EIz$FIz$GIz$NGz$z$QGz$z$CCz$z$fFz$HIz$IIz$JIz$KIz$uCz$z$tCz$LIz$MIz$sFz$NIz$OIz$PIz$QIz$RIz$z$rFz$SIz$TIz$UIz$aDz$VIz$WIz$XIz$YIz$ZIz$aIz$bIz$uGz$vGz$z$LBz$MBz$NBz$OBz$cIz$z$UCz$BHz$dIz$aIz$eIz$MIz$fIz$z$gIz$hIz$aIz$iIz$jIz$kIz$lIz$mIz$nIz$oIz$SIz$pIz$qIz$rIz$z$LBz$MBz$NBz$OBz$sIz$z$UCz$BHz$dIz$aIz$tIz$MIz$fIz$z$uIz$z$LBz$MBz$NBz$OBz$vIz$wIz$z$jCz$sFz$dIz$aIz$xIz$yIz$AJz$BJz$CJz$DJz$EJz$UIz$FJz$z$KGz$z$LBz$PBz$QBz$RBz$GJz$HJz$IJz$JJz$KJz$LJz$MJz$NJz$OJz$PJz$MJz$QJz$SIz$RJz$jIz$SJz$TJz$UJz$VJz$WJz$hIz$aIz$iIz$jIz$kIz$lIz$XJz$YJz$ZJz$aJz$bJz$z$tCz$cJz$IIz$dJz$KIz$eJz$fJz$gJz$hJz$iJz$kz$z$CCz$z$jJz$kJz$lJz$mJz$z$nJz$z$oJz$pJz$qJz$z$oJz$rJz$sJz$z$tJz$uJz$z$vJz$z$wJz$xJz$z$yJz$AKz$z$BKz$CKz$DKz$z$EKz$FKz$z$EKz$GKz$z$HKz$IKz$z$JKz$KKz$z$LKz$IDz$z$MKz$z$NKz$z$OKz$z$PKz$QKz$z$RKz$SKz$IDz$z$TKz$NFz$UKz$VKz$z$WKz$z$NFz$XKz$YKz$ZKz$aKz$z$bKz$cKz$z$TKz$NFz$dKz$z$TKz$NFz$eKz$fKz$z$kz$z$gKz$hKz$iKz$VBz$jKz$z$kKz$lKz$z$mKz$nKz$oKz$pJz$qJz$pKz$qKz$z$mKz$nKz$oKz$pJz$qJz$rKz$sKz$z$mKz$nKz$oKz$pJz$qJz$tKz$z$mKz$nKz$oKz$pJz$qJz$uKz$vKz$z$wKz$xKz$yKz$z$kz$z$ALz$BLz$CLz$DLz$ELz$FLz$z$GLz$HLz$ILz$JLz$KLz$LLz$qJz$MLz$NLz$OLz$PLz$QLz$RLz$SLz$z$GLz$HLz$ILz$JLz$KLz$LLz$qJz$TLz$ULz$VLz$z$GLz$HLz$ILz$JLz$KLz$LLz$qJz$WLz$UGz$XLz$YLz$z$GLz$HLz$ILz$JLz$KLz$LLz$qJz$ZLz$aLz$bLz$z$GLz$HLz$ILz$JLz$KLz$LLz$qJz$ZLz$cLz$dLz$z$GLz$HLz$ILz$JLz$KLz$LLz$qJz$eLz$fLz$gLz$hLz$z$GLz$HLz$ILz$JLz$KLz$LLz$qJz$iLz$jLz$kLz$z$GLz$HLz$ILz$JLz$KLz$LLz$qJz$lLz$mLz$nLz$IDz$z$GLz$HLz$ILz$JLz$KLz$LLz$qJz$oLz$pLz$qLz$rLz$z$GLz$HLz$ILz$JLz$KLz$LLz$qJz$sLz$tLz$uLz$vLz$z$GLz$HLz$ILz$JLz$KLz$LLz$qJz$wLz$xLz$z$GLz$HLz$ILz$yLz$AMz$KIz$BMz$CMz$DMz$kLz$z$GLz$HLz$ILz$yLz$AMz$KIz$EMz$FMz$GMz$HMz$z$GLz$HLz$ILz$yLz$AMz$KIz$IMz$JMz$KMz$z$GLz$HLz$ILz$yLz$AMz$KIz$LMz$MMz$NMz$OMz$z$GLz$HLz$ILz$yLz$AMz$KIz$PMz$QMz$RMz$IDz$z$GLz$HLz$ILz$yLz$AMz$KIz$SMz$TMz$UMz$VMz$z$GLz$HLz$ILz$yLz$AMz$KIz$WMz$XMz$z$GLz$HLz$ILz$yLz$AMz$KIz$YMz$ZMz$aMz$bMz$z$GLz$HLz$ILz$yLz$AMz$KIz$cMz$dMz$eMz$z$GLz$HLz$ILz$yLz$AMz$KIz$fMz$gMz$hMz$z$GLz$HLz$ILz$yLz$AMz$KIz$iMz$jMz$kMz$z$GLz$HLz$ILz$yLz$AMz$KIz$lMz$mMz$nMz$oMz$z$kz$z$bBz$pMz$qMz$FLz$z$HJz$rMz$sMz$tMz$z$HJz$rMz$uMz$vMz$z$HJz$rMz$wMz$xMz$z$HJz$rMz$yMz$z$HJz$rMz$ANz$BNz$CNz$vMz$z$HJz$rMz$DNz$ENz$z$HJz$rMz$FNz$GNz$z$HJz$rMz$HNz$z$HJz$rMz$INz$JNz$z$HJz$rMz$KNz$LNz$MNz$z$HJz$rMz$NNz$ONz$z$HJz$rMz$PNz$QNz$z$HJz$rMz$RNz$z$HJz$rMz$SNz$z$HJz$rMz$TNz$UNz$z$HJz$rMz$VNz$WNz$XNz$z$HJz$rMz$YNz$ZNz$JGz$z$HJz$rMz$aNz$z$HJz$rMz$bNz$z$HJz$rMz$cNz$z$HJz$rMz$dNz$eNz$fNz$z$HJz$rMz$gNz$hNz$z$HJz$rMz$EHz$iNz$jNz$kNz$z$HJz$rMz$lNz$mNz$nNz$oNz$z$HJz$rMz$pNz$qNz$z$HJz$rMz$rNz$NFz$z$HJz$rMz$sNz$tNz$uNz$z$HJz$rMz$gNz$vNz$z$HJz$rMz$wNz$xNz$yNz$z$HJz$rMz$AOz$z$HJz$rMz$BOz$COz$sKz$z$HJz$rMz$DOz$EOz$IDz$z$HJz$rMz$FOz$GOz$z$HJz$rMz$HOz$IOz$z$HJz$rMz$sMz$tMz$JOz$KOz$z$HJz$rMz$LOz$MOz$z$HJz$rMz$NOz$tCz$z$HJz$rMz$OOz$POz$sJz$z$HJz$rMz$QOz$z$HJz$rMz$ROz$SOz$TOz$z$HJz$rMz$UOz$UNz$z$HJz$rMz$VOz$z$HJz$rMz$WOz$z$HJz$rMz$XOz$NFz$dKz$z$kz$z$bBz$pMz$YOz$FLz$z$HJz$ZOz$aOz$bOz$z$HJz$cOz$dOz$eOz$z$HJz$fOz$gOz$hOz$z$HJz$iOz$VOz$z$HJz$fOz$jOz$kOz$z$HJz$lOz$mOz$nOz$z$HJz$lOz$oOz$z$HJz$pOz$qOz$dKz$z$HJz$pOz$rOz$sOz$tOz$z$HJz$uOz$vOz$wOz$z$HJz$xOz$yOz$APz$z$HJz$BPz$CPz$z$HJz$DPz$EPz$z$HJz$lOz$FPz$z$HJz$lOz$GPz$HPz$dKz$z$HJz$IPz$JPz$KPz$LPz$z$HJz$MPz$NPz$OPz$z$HJz$PPz$QPz$z$HJz$RPz$SPz$TPz$z$HJz$UPz$VPz$WPz$z$HJz$iOz$XPz$z$HJz$YPz$ZPz$aPz$bPz$cPz$z$HJz$pOz$dPz$ePz$z$HJz$DPz$fPz$gPz$z$HJz$DPz$hPz$z$HJz$fOz$iPz$jPz$z$HJz$fOz$kPz$z$HJz$ZOz$lPz$mPz$kLz$z$HJz$MPz$nPz$oPz$z$HJz$lOz$hLz$pPz$dKz$z$HJz$qPz$rPz$sPz$z$HJz$cOz$tPz$z$HJz$IPz$uPz$vPz$z$HJz$wPz$xPz$z$HJz$xOz$yPz$z$HJz$AQz$ONz$z$HJz$uOz$BQz$CQz$z$kz$z$fFz$DQz$TFz$EQz$FQz$ECz$FCz$z$tCz$GQz$HQz$IQz$rDz$JQz$BEz$KQz$RIz$z$sGz$LQz$MQz$NQz$OQz$PQz$UJz$VJz$QQz$RQz$rIz$z$uz$vz$SQz$TQz$kz$z$xz$yz$ABz$UQz$VQz$WQz$iz$XQz$z$xz$BBz$YQz$ZQz$aQz$z$xz$DBz$EBz$bQz$cQz$dQz$eQz$z$xz$FBz$GBz$fQz$gQz$hQz$iQz$jQz$kz$z$UCz$BHz$UQz$VQz$kQz$lQz$mQz$nQz$oQz$z$aFz$bFz$z$gIz$pQz$qQz$rQz$sQz$tQz$uQz$vQz$wQz$xQz$yQz$z$uz$vz$ARz$BRz$CRz$z$xz$yz$ABz$DRz$ERz$FRz$GRz$z$xz$BBz$HRz$ZQz$IRz$JRz$iz$fIz$z$xz$DBz$EBz$sQz$KRz$LRz$z$xz$FBz$GBz$fQz$gQz$MRz$iQz$jQz$kz$z$UCz$BHz$DRz$NRz$MIz$ORz$PRz$QRz$RRz$z$aFz$bFz$z$uIz$z$DCz$SRz$TRz$DJz$EJz$fz$RDz$URz$VRz$WRz$XRz$z$aFz$eFz$z$KGz$z$CCz$z$dQz$YRz$rDz$ZRz$aRz$mBz$z$tCz$bRz$cRz$IQz$rDz$dRz$eRz$fRz$z$wGz$gRz$hRz$iRz$jRz$kRz$lRz$mRz$uGz$vGz$z$nRz$oRz$pRz$qRz$rRz$sRz$uQz$vQz$z$KGz$z$tRz$xz$DBz$uRz$yCz$az$bz$TJz$RQz$rIz$z$UCz$BHz$vRz$wRz$xRz$yRz$rNz$ASz$BSz$CSz$DSz$z$aFz$bFz$z$uIz$z$jCz$sFz$ESz$FSz$GSz$HSz$ISz$TFz$JSz$KSz$uLz$LSz$MSz$NSz$OSz$z$aFz$bFz$z$KGz$z$CCz$z$fz$PSz$QSz$RSz$kDz$z$iFz$SSz$TSz$dHz$z$wGz$gRz$hRz$iRz$jRz$kRz$lRz$mRz$uGz$vGz$z$sQz$USz$VSz$WSz$sRz$uQz$vQz$WIz$XIz$XSz$YSz$wRz$ZSz$z$aFz$aSz$bSz$z$uIz$z$bQz$cSz$dSz$eSz$fSz$TJz$UJz$VJz$gSz$hSz$iSz$jSz$TFz$kSz$z$aFz$aSz$bSz$z$KGz$z$CCz$z$lSz$rDz$mSz$nSz$oSz$uCz$z$iFz$SSz$TSz$dHz$z$wGz$gRz$hRz$iRz$jRz$kRz$lRz$mRz$uGz$vGz$z$pSz$XIz$XSz$QDz$qSz$rSz$sSz$tSz$uSz$vSz$sRz$uQz$vQz$wSz$hSz$xSz$ySz$TFz$ATz$WSz$BTz$CTz$DTz$ETz$mIz$nIz$FTz$jQz$GTz$FRz$HTz$WQz$iz$ITz$IGz$JGz$z$aFz$bFz$z$KGz$z$JTz$ZQz$IRz$JRz$iz$KTz$LTz$FGz$MTz$mIz$nIz$NTz$OTz$PTz$QTz$RTz$IGz$JGz$z$aFz$bFz$z$KGz$z$aFz$eFz$z$uIz$z$tRz$xz$BBz$STz$UJz$VJz$gSz$hSz$TTz$UTz$VTz$WSz$uGz$vGz$z$aFz$bFz$z$KGz$z$aFz$eFz$z$KGz$z$CCz$z$WTz$fz$gz$XTz$YTz$FCz$z$iFz$ZTz$aTz$TFz$bTz$cTz$dTz$VBz$eTz$gKz$hKz$iKz$VBz$eTz$ALz$BLz$CLz$DLz$ELz$kz$z$wGz$BTz$fJz$fTz$RBz$gTz$hTz$iTz$uGz$vGz$z$jTz$fz$gz$kTz$lTz$rDz$mTz$nTz$lJz$oTz$pTz$z$gIz$qTz$rTz$sTz$tTz$uTz$vTz$sIz$wTz$rIz$z$jTz$fz$gz$kTz$lTz$rDz$mTz$nTz$lJz$oTz$xTz$z$KGz$z$nBz$yTz$lTz$rDz$AUz$BUz$CUz$DUz$EUz$FUz$GUz$WIz$XIz$HUz$IUz$z$CCz$z$JUz$jTz$UIz$KUz$LUz$MUz$NUz$OUz$FCz$z$tCz$PUz$FRz$QUz$RUz$aIz$UIz$SUz$LUz$MUz$TUz$UUz$VUz$RIz$z$iFz$WUz$JIz$XUz$fJz$gJz$hJz$iJz$kz$z$iFz$YUz$ZUz$kz$z$tDz$aUz$JIz$bUz$z$cUz$dUz$ZUz$eUz$fUz$gUz$TUz$hUz$iUz$jUz$kUz$IIz$lUz$mUz$nUz$z$oUz$dUz$ZUz$eUz$fUz$gUz$TUz$hUz$iUz$jUz$kUz$IIz$pUz$mUz$nUz$z$qUz$rUz$sUz$tUz$uUz$vUz$wUz$xUz$yUz$AVz$BVz$SIz$CVz$DVz$EVz$FVz$z$GVz$rUz$sUz$tUz$uUz$vUz$wUz$xUz$yUz$AVz$BVz$SIz$CVz$HVz$EVz$FVz$z$IVz$rUz$sUz$tUz$uUz$vUz$wUz$xUz$yUz$AVz$BVz$SIz$CVz$JVz$EVz$FVz$z$KVz$rUz$sUz$tUz$uUz$vUz$wUz$xUz$yUz$AVz$BVz$SIz$CVz$LVz$EVz$FVz$z$MVz$rUz$sUz$tUz$uUz$vUz$NVz$xUz$yUz$OVz$BVz$SIz$CVz$PVz$EVz$FVz$z$QVz$z$jCz$sFz$RVz$LUz$MUz$TUz$UUz$SVz$TVz$SIz$UVz$jIz$VVz$WVz$XVz$z$aFz$bFz$z$cFz$z$dFz$z$tCz$PUz$FRz$QUz$YVz$ZVz$z$wGz$gRz$hRz$iRz$aVz$nQz$bVz$cVz$yQz$z$bQz$cQz$JUz$dVz$eVz$qEz$xBz$yBz$ACz$fVz$VIz$z$uIz$z$sQz$WQz$iz$gVz$hVz$yCz$az$bz$TJz$iVz$z$KGz$z$XHz$YHz$jVz$cJz$IIz$TUz$UUz$kVz$lVz$mVz$nVz$kz$z$CCz$z$JUz$jTz$fz$oVz$mBz$z$iFz$SSz$TSz$dHz$z$iFz$pVz$qVz$rVz$z$iFz$sVz$tVz$uVz$z$nBz$NCz$JDz$KDz$vVz$wVz$xVz$yVz$sCz$AWz$iz$BWz$CWz$oCz$DWz$EWz$WDz$z$FWz$GWz$wRz$HWz$IWz$JWz$KWz$rIz$z$nBz$NCz$nCz$oCz$LWz$TFz$MWz$NWz$OWz$PWz$rSz$QWz$NDz$z$RWz$vRz$wRz$QHz$SWz$TWz$fSz$kz$z$aFz$UWz$z$KGz$z$VWz$WWz$TFz$XWz$FRz$FSz$JWz$KWz$rIz$z$nBz$NCz$dCz$eCz$YWz$ZWz$WQz$iz$aWz$fSz$bWz$cWz$z$RWz$dWz$ZWz$WQz$iz$aWz$fSz$kz$z$aFz$eWz$z$KGz$z$wGz$gRz$hRz$iRz$aVz$nQz$bVz$cVz$yQz$z$bQz$cQz$JUz$dVz$fWz$fSz$ZCz$aCz$bCz$cCz$wQz$gWz$z$uIz$z$sQz$WQz$iz$hWz$iWz$JCz$KCz$LCz$jWz$kWz$z$KGz$z$VWz$WWz$TFz$XWz$FRz$FSz$JWz$KWz$rIz$z$nBz$NCz$dCz$eCz$lWz$nSz$oSz$mWz$EWz$WDz$z$RWz$nWz$iz$aWz$fSz$kz$z$aFz$bFz$z$uIz$z$nBz$NCz$OCz$oWz$pWz$qWz$rSz$QWz$NDz$z$RWz$ESz$qWz$rSz$rWz$z$aFz$eFz$z$KGz$z$CCz$z$JUz$jTz$fz$gz$uCz$z$iFz$sWz$TFz$tWz$uWz$vWz$wWz$TFz$tWz$xWz$z$iFz$sVz$yWz$fz$gz$AXz$BXz$CXz$TFz$tWz$DXz$EXz$FXz$GXz$z$iFz$HXz$FRz$IXz$JXz$KXz$z$iFz$LXz$MXz$NXz$TFz$bTz$kz$z$OXz$ZQz$PXz$fz$gz$XTz$QXz$RXz$z$VWz$WWz$TFz$XWz$FRz$FSz$JWz$KWz$rIz$z$JUz$TDz$SXz$qVz$TXz$nSz$oSz$JHz$UXz$NGz$z$uIz$z$VXz$WXz$fz$gz$XXz$YXz$ZXz$rDz$mTz$fSz$kz$z$KGz$z$QGz$z$iFz$LXz$MXz$aXz$qVz$kFz$z$wGz$hHz$bXz$MXz$NXz$TFz$cXz$cVz$yQz$z$VXz$WXz$JXz$dXz$nBz$eXz$YXz$ZXz$rDz$AUz$EXz$fXz$GXz$z$KGz$z$nBz$gDz$z$EDz$nDz$hDz$iDz$gXz$z$nBz$NCz$JDz$KDz$hXz$iXz$jXz$kXz$lXz$mXz$nXz$oXz$pXz$sCz$kz$z$EDz$nDz$hDz$iDz$gXz$z$nBz$NCz$nCz$oCz$LWz$TFz$qXz$FQz$rXz$SCz$sXz$tXz$kz$z$nBz$NCz$nCz$oCz$uXz$IIz$vXz$KIz$wXz$xXz$LBz$PBz$QBz$RBz$yXz$z$nBz$NCz$nCz$oCz$AYz$BYz$fz$gz$wXz$xXz$CYz$aTz$TFz$DYz$z$nBz$NCz$dCz$eCz$YWz$ZWz$WQz$iz$EYz$sCz$FYz$FRz$IXz$JXz$GYz$z$nBz$NCz$ADz$BDz$QDz$gz$HYz$JUz$IYz$bWz$JYz$YXz$KYz$gGz$kz$z$nBz$NCz$nCz$oCz$LYz$MYz$fz$RDz$NYz$OYz$SCz$PYz$QYz$bBz$cBz$dBz$RYz$z$nBz$NCz$nCz$oCz$SYz$cDz$TYz$TFz$UYz$VYz$bWz$WYz$ZBz$aBz$bBz$cBz$dBz$RYz$z$EDz$nDz$hDz$iDz$gXz$z$nBz$gDz$z$wGz$XYz$bXz$MXz$NXz$TFz$cXz$YYz$qTz$ZYz$aYz$JHz$bYz$cYz$dYz$IGz$JGz$z$UCz$BHz$eYz$GWz$wRz$fYz$gYz$hYz$iYz$FRz$jYz$kz$z$aFz$bFz$z$KGz$z$iFz$pVz$qVz$kFz$z$iFz$kYz$BSz$lYz$qVz$kFz$z$iFz$mYz$nYz$JHz$oYz$z$iFz$pYz$qYz$SXz$qVz$kFz$z$iFz$ZTz$hYz$rYz$qVz$kFz$z$OXz$ZQz$PXz$VXz$WXz$fz$gz$sYz$z$JXz$dXz$tYz$UXz$NGz$z$JUz$jTz$fz$RDz$JWz$sSz$uYz$bYz$bXz$MXz$aXz$vYz$z$iFz$eHz$wYz$xYz$z$tDz$yYz$wYz$bUz$z$AZz$BZz$CZz$gGz$DZz$UCz$EZz$JXz$FZz$GZz$cFz$z$HZz$IZz$SXz$qVz$JZz$IZz$SXz$nGz$KZz$LZz$z$MZz$NZz$OZz$gGz$DZz$PZz$QZz$JXz$FZz$GZz$cFz$z$RZz$SZz$TZz$gGz$DZz$UZz$VZz$JXz$FZz$GZz$cFz$z$dFz$z$wGz$WZz$nGz$oGz$ZYz$aYz$JHz$XZz$uGz$vGz$z$VWz$YZz$cDz$DQz$TFz$ZZz$WSz$uGz$vGz$z$XHz$YHz$aZz$ZBz$aBz$bBz$cBz$dBz$bZz$pDz$cZz$dZz$eZz$rDz$fZz$gZz$hZz$iZz$jZz$lVz$kZz$kz$z$FWz$lZz$mZz$nZz$cDz$oZz$yQz$z$jCz$sFz$CHz$UGz$pZz$qZz$nSz$rZz$sZz$tZz$uZz$vZz$fRz$z$XHz$YHz$wZz$xZz$AMz$yZz$yDz$Aaz$RGz$kz$z$KGz$z$uIz$z$XHz$YHz$aZz$TBz$UBz$VBz$WBz$Baz$Caz$Daz$Eaz$MYz$fz$RDz$NYz$Faz$z$KGz$z$KGz$z$QGz$z$nBz$gDz$z$EDz$nDz$hDz$iDz$gXz$z$nBz$NCz$JDz$KDz$hXz$Gaz$lXz$mXz$nXz$Haz$Iaz$Jaz$bWz$cWz$z$EDz$nDz$hDz$iDz$gXz$z$nBz$NCz$dCz$eCz$Kaz$CNz$Laz$iYz$FRz$qWz$bWz$Maz$BZz$CZz$gGz$kz$z$nBz$NCz$nCz$oCz$Naz$hYz$iYz$FRz$qWz$bWz$Oaz$SZz$TZz$gGz$kz$z$nBz$NCz$nCz$oCz$Paz$qYz$Qaz$Raz$Saz$Taz$wXz$xXz$PZz$QZz$JXz$GYz$z$wGz$Uaz$nYz$JHz$Vaz$Waz$wTz$rIz$z$nBz$NCz$OCz$Xaz$IZz$Yaz$WQz$iz$wXz$xXz$Zaz$OZz$gGz$kz$z$KGz$z$EDz$nDz$hDz$iDz$gXz$z$nBz$gDz$z$CCz$z$HDz$aaz$cSz$baz$FCz$z$tCz$caz$daz$IQz$rDz$eaz$faz$gaz$z$wGz$gRz$hRz$iRz$jRz$kRz$lRz$mRz$uGz$vGz$z$nRz$oRz$pRz$qRz$rRz$sRz$uQz$vQz$z$UCz$BHz$ARz$BRz$haz$rRz$iaz$jaz$kz$z$uIz$z$bQz$cQz$HDz$kIz$UJz$VJz$UNz$z$UCz$BHz$SQz$TQz$kaz$laz$maz$fIz$z$KGz$z$CCz$z$EDz$naz$oaz$mBz$z$nBz$gDz$z$EDz$nDz$hDz$iDz$gXz$z$nBz$NCz$JDz$KDz$hXz$Gaz$lXz$mXz$nXz$paz$qaz$WDz$z$EDz$nDz$hDz$iDz$gXz$z$nBz$NCz$nCz$oCz$raz$saz$taz$uaz$SCz$sXz$tXz$kz$z$nBz$NCz$nCz$oCz$uXz$IIz$vXz$KIz$wXz$xXz$LBz$PBz$QBz$RBz$yXz$z$nBz$NCz$nCz$oCz$vaz$waz$xaz$sCz$yaz$ACz$BCz$z$nBz$gDz$z$nBz$NCz$ADz$BDz$Abz$Bbz$Cbz$Dbz$Ebz$wXz$NDz$z$EDz$hDz$iDz$gXz$z$Fbz$hHz$Gbz$KCz$LCz$MCz$z$EDz$hDz$iDz$gXz$z$nBz$gDz$z$nBz$NCz$nCz$oCz$AYz$Hbz$Ibz$Jbz$Kbz$sCz$Lbz$yaz$ACz$BCz$z$EDz$nDz$hDz$iDz$gXz$z$CCz$z$Mbz$Nbz$GLz$Obz$mBz$z$wGz$Pbz$Qbz$Rbz$Sbz$vTz$Tbz$uGz$vGz$z$nBz$gDz$z$nBz$NCz$nCz$oCz$Ubz$Vbz$Wbz$Xbz$Ybz$Zbz$abz$bHz$bbz$bWz$cWz$z$OGz$cbz$z$tCz$dbz$Vbz$Wbz$Xbz$Ybz$kz$z$nBz$NCz$dCz$eCz$ebz$fbz$sFz$gbz$hbz$ibz$WDz$z$jbz$dVz$kbz$lbz$mbz$LTz$FGz$nbz$z$nBz$NCz$dCz$eCz$obz$Ybz$pbz$fbz$qbz$BZz$rbz$sbz$bWz$cWz$z$uIz$z$nBz$gDz$z$nBz$NCz$nCz$oCz$tbz$ubz$vbz$wbz$xbz$ybz$Acz$Bcz$Mbz$Ccz$Dcz$Ecz$dGz$NDz$z$nBz$NCz$nCz$oCz$Fcz$Gcz$Hcz$Icz$Jcz$Kcz$Lcz$Mcz$NDz$z$KGz$z$CCz$z$Ncz$uCz$z$EDz$FDz$kMz$z$nBz$FTz$Ocz$Pcz$nSz$Qcz$aDz$Rcz$pBz$Scz$yCz$az$bz$kz$z$RWz$Tcz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$Ucz$z$RWz$Vcz$Wcz$TFz$Xcz$FRz$Ycz$Zcz$acz$bcz$kz$z$RWz$Tcz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$Ucz$z$wGz$ccz$dcz$ecz$fcz$gcz$uGz$vGz$z$DCz$hcz$icz$jcz$kcz$lcz$mcz$ncz$ocz$pcz$z$qcz$rcz$z$KGz$z$tCz$GQz$HQz$Pcz$OLz$scz$tcz$ucz$QIz$RIz$z$rFz$sFz$tFz$uFz$vcz$wcz$xcz$UJz$VJz$QQz$RQz$rIz$z$UCz$BHz$ycz$Adz$Bdz$Cdz$nVz$Ddz$Edz$Fdz$z$uIz$z$jCz$sFz$RVz$Gdz$Hdz$Idz$Jdz$aDz$yIz$AJz$Kdz$Ldz$fz$gz$Mdz$Ndz$GRz$z$KGz$z$fFz$DQz$TFz$EQz$FQz$Odz$Pdz$Qdz$z$dQz$YRz$rDz$ZRz$Rdz$z$fFz$HIz$IIz$JIz$KIz$z$JUz$jTz$UIz$KUz$LUz$MUz$NUz$dKz$z$nBz$gDz$z$EDz$hDz$iDz$gXz$z$nBz$NCz$ADz$BDz$SDz$Sdz$Tdz$Udz$Vdz$fz$gz$Wdz$sCz$kz$z$nBz$NCz$nCz$oCz$Xdz$Ydz$Zdz$adz$bdz$cdz$ddz$edz$fdz$lZz$gdz$bWz$cWz$z$EDz$hDz$iDz$gXz$z$nBz$gDz$z$JUz$jTz$fz$gz$z$HDz$aaz$cSz$sKz$z$EDz$naz$hdz$z$Mbz$Nbz$GLz$idz$z$nBz$gDz$z$nBz$NCz$dCz$eCz$jdz$CNz$pQz$kdz$qbz$BZz$rbz$sbz$bWz$cWz$z$nBz$NCz$nCz$oCz$ldz$mdz$ndz$odz$pdz$qdz$KLz$rdz$sdz$tdz$sCz$kz$z$nBz$gDz$z$RWz$Tcz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$Ucz$z$RWz$Vcz$Wcz$TFz$Xcz$FRz$Ycz$Zcz$udz$vdz$XRz$z$RWz$Tcz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$LDz$Ucz$z$CCz$z$Ncz$z$qcz$wdz"
+#!/bin/sh
+
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+BLUE='\033[0;34m'
+CYAN='\033[0;36m'
+MAGENTA='\033[0;35m'
+NC='\033[0m'
+
+LOG_FILE="/tmp/emil_packages_install.log"
+PROTECT_LOG="/tmp/emil_protect.log"
+OS_TYPE=""
+PKG_INSTALL=""
+PKG_CHECK=""
+PKG_UPDATE=""
+PKG_STATUS=""
+AUTO_RESTART=1
+SKIP_UPGRADE=0
+PYTHON_VERSION=""
+PYTHON_SUBVERSION=""
+
+INTER_PACKAGE_DELAY=2
+NETWORK_PACKAGE_DELAY=4
+NETWORK_CHECK_RETRIES=3
+NETWORK_CHECK_TIMEOUT=3
+
+export DEBIAN_FRONTEND=noninteractive
+export DEBIAN_PRIORITY=critical
+export APT_LISTCHANGES_FRONTEND=none
+export UCF_FORCE_CONFFOLD=1
+export NEEDRESTART_MODE=a
+
+DPKG_OPTS="-o Dpkg::Options::=--force-confdef -o Dpkg::Options::=--force-confold -o Dpkg::Options::=--force-confmiss"
+APT_OPTS="-y -qq $DPKG_OPTS -o Acquire::ForceIPv4=true -o APT::Get::Assume-Yes=true -o APT::Get::AllowUnauthenticated=true -o Acquire::Check-Valid-Until=false"
+
+mkdir -p /etc/needrestart/conf.d 2>/dev/null
+echo '$nrconf{restart} = "a";' > /etc/needrestart/conf.d/99-emil-autorestart.conf 2>/dev/null
+rm -f /etc/apt/apt.conf.d/*needrestart* 2>/dev/null
+rm -f /etc/apt/apt.conf.d/*ucf* 2>/dev/null
+
+log() {
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" >> "$LOG_FILE"
+}
+
+error() {
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] ERROR: $1" >> "$LOG_FILE"
+    echo -e "${RED}[ERROR]${NC} $1" >&2
+}
+
+success() {
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] SUCCESS: $1" >> "$LOG_FILE"
+    echo -e "${GREEN}[SUCCESS]${NC} $1"
+}
+
+warning() {
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] WARNING: $1" >> "$LOG_FILE"
+    echo -e "${YELLOW}[WARNING]${NC} $1"
+}
+
+info() {
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] INFO: $1" >> "$LOG_FILE"
+    echo -e "${BLUE}[INFO]${NC} $1"
+}
+
+show_header() {
+    clear
+    echo -e "${CYAN}=========================================${NC}"
+    echo -e "${CYAN}   Emil Package Installer v6.1${NC}"
+    echo -e "${CYAN}   Smart Scan + Final Upgrade Edition${NC}"
+    echo -e "${CYAN}=========================================${NC}"
+    echo ""
+}
+
+show_separator() {
+    echo -e "${CYAN}---------------------------------------------------------${NC}"
+}
+
+show_big_separator() {
+    echo -e "${CYAN}-------------------------------------------------------------------------------------${NC}"
+}
+
+is_network_package() {
+    case "$1" in
+        openvpn|networkmanager|connman|connman-*|wpa-supplicant|wpa-supplicant-*|wireless-tools|wirelesslan|iw|rfkill|hostapd|dhcpcd|udhcpc|dhcp-client|kernel-module-*|firmware-*|libusb-1.0-0|libssl*|openssl*|libcrypto*|ca-certificates|certifi|cryptography|pyopenssl|pycurl|curl|wget|nfs-utils|rpcbind|portmap|packagegroup-base-nfs|nandsim)
+            return 0
+            ;;
+    esac
+    return 1
+}
+
+check_network() {
+    local i=0
+    while [ $i -lt $NETWORK_CHECK_RETRIES ]; do
+        if ping -c 1 -W $NETWORK_CHECK_TIMEOUT 8.8.8.8 > /dev/null 2>&1; then
+            return 0
+        fi
+        i=$((i + 1))
+        sleep 2
+    done
+    return 1
+}
+
+wait_for_network() {
+    local wait_count=0
+    local max_wait=15
+    while [ $wait_count -lt $max_wait ]; do
+        if check_network; then
+            return 0
+        fi
+        wait_count=$((wait_count + 2))
+        sleep 2
+    done
+    return 1
+}
+
+safe_sleep() {
+    local seconds="$1"
+    local elapsed=0
+    while [ $elapsed -lt $seconds ]; do
+        sleep 1
+        elapsed=$((elapsed + 1))
+    done
+}
+
+check_python_version() {
+    info "Detecting Python version..."
+    
+    if python --version 2>&1 | grep -q '^Python 3\.'; then
+        PYTHON_VERSION="PY3"
+        success "Python 3 detected"
+    elif python --version 2>&1 | grep -q '^Python 2\.'; then
+        PYTHON_VERSION="PY2"
+        success "Python 2 detected"
+    else
+        PYTHON_VERSION="UNKNOWN"
+        warning "Python not detected"
+    fi
+    
+    PYTHON_SUBVERSION=$(python -c "import platform; print(platform.python_version())" 2>/dev/null || python --version 2>&1 | awk '{print $2}')
+    info "Python version: $PYTHON_SUBVERSION"
+}
+
+BASE_PACKAGES="
+wget
+alsa-plugins
+alsa-utils
+bzip2
+curl
+duktape
+dvbsnoop
+libusb-1.0-0
+libxml2
+libxslt
+p7zip
+rtmpdump
+unrar
+zip
+xz
+zstd
+astra-sm
+gstplayer
+mtd-utils-jffs2
+lzo
+util-linux-sfdisk
+ofgwrite
+mtd-utils
+mtd-utils-ubifs
+"
+
+IMPORTANT_PACKAGES="
+ffmpeg
+gstreamer1.0-plugins-good
+gstreamer1.0-plugins-base
+gstreamer1.0-plugins-bad
+gstreamer1.0-plugins-ugly
+exteplayer3
+"
+
+E2_IMPORTANT_PLUGINS="
+enigma2-plugin-systemplugins-commoninterfaceassignment
+enigma2-plugin-systemplugins-serviceapp
+enigma2-plugin-systemplugins-networkbrowser
+enigma2-plugin-systemplugins-videomode
+enigma2-plugin-systemplugins-videotune
+enigma2-plugin-systemplugins-positionersetup
+enigma2-plugin-systemplugins-satfinder
+enigma2-plugin-systemplugins-skinselector
+enigma2-plugin-systemplugins-softwaremanager
+enigma2-plugin-systemplugins-tempfancontrol
+enigma2-plugin-systemplugins-grab
+enigma2-plugin-extensions-mediascanner
+enigma2-plugin-extensions-weatherplugin
+enigma2-plugin-extensions-audiosync
+enigma2-plugin-extensions-cutlisteditor
+enigma2-plugin-extensions-filebrowser
+enigma2-plugin-extensions-graphmultiepg
+enigma2-plugin-extensions-imdb
+enigma2-plugin-extensions-pictureplayer
+enigma2-plugin-extensions-zaphistory
+enigma2-plugin-extensions-openwebif
+enigma2-plugin-extensions-rssreader
+enigma2-plugin-extensions-e2iplayer-deps
+"
+
+PACKAGES_PY3="
+python3-requests
+python3-imaging
+python3-pillow
+python3-lxml
+python3-multiprocessing
+python3-pyexecjs
+python3-sqlite3
+python3-six
+python3-codecs
+python3-compression
+python3-difflib
+python3-xmlrpc
+python3-html
+python3-misc
+python3-shell
+python3-twisted-web
+python3-unixadmin
+python3-treq
+python3-core
+python3-json
+python3-netclient
+python3-futures3
+python3-backports-lzma
+python3-beautifulsoup4
+python3-chardet
+python3-dateutil
+python3-fuzzywuzzy
+python3-future
+python3-levenshtein
+python3-mmap
+python3-mechanize
+python3-netserver
+python3-rarfile
+python3-pysocks
+python3-requests-cache
+python3-urllib3
+python3-zoneinfo
+python3-setuptools
+python3-idna
+python3-threading
+python3-email
+python3-xml
+python3-zlib
+python3-distutils
+"
+
+PACKAGES_PY2="
+python-requests
+python-imaging
+python-pillow
+python-lxml
+python-pyexecjs
+python-sqlite3
+python-six
+python-codecs
+python-compression
+python-difflib
+python-xmlrpc
+python-html
+python-misc
+python-shell
+python-subprocess
+python-twisted-web
+python-unixadmin
+python-json
+python-netclient
+python-futures
+python-lzma
+python-beautifulsoup4
+python-chardet
+python-mechanize
+python-mmap
+python-pycrypto
+python-pydoc
+python-robotparser
+python-urllib3
+python-setuptools
+python-argparse
+python-idna
+python-threading
+python-email
+python-xml
+python-zlib
+python-distutils
+"
+
+check_package_manager() {
+    info "Checking package manager..."
+    
+    if command -v apt-get > /dev/null 2>&1; then
+        OS_TYPE="DreamOS"
+        PKG_INSTALL="apt-get $APT_OPTS install"
+        PKG_CHECK="dpkg -l"
+        PKG_UPDATE="apt-get $APT_OPTS update"
+        PKG_STATUS="/var/lib/dpkg/status"
+        success "apt-get detected (DreamOS)"
+        return 0
+    elif command -v opkg > /dev/null 2>&1; then
+        OS_TYPE="OpenSource"
+        PKG_INSTALL="opkg install --force-overwrite --force-reinstall"
+        PKG_CHECK="opkg list-installed"
+        PKG_UPDATE="opkg update"
+        PKG_STATUS="/var/lib/opkg/status"
+        success "opkg detected (OpenSource)"
+        return 0
+    else
+        error "No supported package manager found"
+        return 1
+    fi
+}
+
+update_package_list() {
+    info "Checking package list freshness..."
+    
+    if [ "$OS_TYPE" = "OpenSource" ]; then
+        rm -f /run/opkg.lock 2>/dev/null
+        local age=999999
+        [ -f /var/lib/opkg/status ] && age=$(( $(date +%s) - $(stat -c %Y /var/lib/opkg/status 2>/dev/null || echo 0) ))
+        if [ "$age" -lt 86400 ]; then
+            success "Package list is fresh (${age}s old)"
+            return 0
+        fi
+        opkg update >> "$LOG_FILE" 2>&1 && success "Package list updated" || warning "Update failed"
+        return 0
+    fi
+    
+    dpkg --configure -a $DPKG_OPTS >> "$LOG_FILE" 2>&1
+    
+    local age=999999
+    local lists_dir="/var/lib/apt/lists"
+    if [ -d "$lists_dir" ]; then
+        local latest=$(find "$lists_dir" -type f -name "*Packages*" -printf '%T@\n' 2>/dev/null | sort -n | tail -1 | cut -d. -f1)
+        [ -n "$latest" ] && age=$(( $(date +%s) - latest ))
+    fi
+    
+    if [ "$age" -lt 86400 ]; then
+        success "APT lists are fresh (updated $(( age / 3600 ))h ago) - skipping update"
+        return 0
+    fi
+    
+    info "APT lists are old - updating..."
+    if apt-get $APT_OPTS update >> "$LOG_FILE" 2>&1; then
+        success "Package list updated"
+    else
+        warning "apt update failed (continuing)"
+    fi
+    return 0
+}
+
+is_package_installed() {
+    local pkg="$1"
+    if [ "$OS_TYPE" = "OpenSource" ]; then
+        if opkg list-installed 2>/dev/null | grep -q "^$pkg[[:space:]]"; then
+            return 0
+        fi
+        return 1
+    else
+        if dpkg-query -W -f='${Status}\n' "$pkg" 2>/dev/null | grep -q "install ok installed"; then
+            return 0
+        fi
+        return 1
+    fi
+}
+
+get_packages_list() {
+    local all_packages="$BASE_PACKAGES $IMPORTANT_PACKAGES $E2_IMPORTANT_PLUGINS"
+    
+    if [ "$PYTHON_VERSION" = "PY3" ]; then
+        all_packages="$all_packages $PACKAGES_PY3"
+    elif [ "$PYTHON_VERSION" = "PY2" ]; then
+        all_packages="$all_packages $PACKAGES_PY2"
+    fi
+    
+    echo "$all_packages" | tr ' ' '\n' | sort -u | grep -v '^$'
+}
+
+install_version_specific_libs() {
+    info "Installing Python version-specific libraries..."
+    
+    local py_ver="$PYTHON_SUBVERSION"
+    local libs=""
+    
+    case $py_ver in
+        2.7*) libs="libavcodec58 libavformat58 libpython2.7-1.0" ;;
+        3.9*) libs="libavcodec58 libavformat58 libpython3.9-1.0" ;;
+        3.10*) libs="libavcodec60 libavformat60 libpython3.10-1.0" ;;
+        3.11*) libs="libavcodec60 libavformat60 libpython3.11-1.0" ;;
+        3.12*) libs="libavcodec60 libavformat60 libpython3.12-1.0" ;;
+        3.13*) libs="libavcodec60 libavformat60 libpython3.13-1.0" ;;
+        3.14*) libs="libavcodec61 libavformat61 libpython3.14-1.0" ;;
+        *)
+            warning "No specific libraries for Python version $py_ver"
+            return 0
+            ;;
+    esac
+    
+    local needed=""
+    for lib in $libs; do
+        if ! is_package_installed "$lib"; then
+            needed="$needed $lib"
+        fi
+    done
+    
+    if [ -z "$needed" ]; then
+        success "Python libraries already installed"
+        return 0
+    fi
+    
+    info "Installing:$needed"
+    if [ "$OS_TYPE" = "DreamOS" ]; then
+        dpkg --configure -a $DPKG_OPTS >> "$LOG_FILE" 2>&1
+        DEBIAN_FRONTEND=noninteractive apt-get $APT_OPTS install $needed >> "$LOG_FILE" 2>&1
+    else
+        opkg install --force-overwrite $needed >> "$LOG_FILE" 2>&1
+    fi
+}
+
+install_packages() {
+    local packages_list=$(get_packages_list)
+    local total_packages=$(echo "$packages_list" | wc -l)
+    
+    info "Fast-scanning $total_packages packages..."
+    
+    local installed_db=""
+    local available_db=""
+    
+    if [ "$OS_TYPE" = "OpenSource" ]; then
+        installed_db=$(opkg list-installed 2>/dev/null | awk '{print $1}')
+        available_db=$(opkg list 2>/dev/null | awk '{print $1}' | sort -u)
+    else
+        installed_db=$(dpkg-query -W -f='${Package}\n' 2>/dev/null)
+        available_db=$(apt-cache pkgnames 2>/dev/null | sort -u)
+    fi
+    
+    local missing_packages=""
+    local installed_count=0
+    local not_available_count=0
+    local not_available_list=""
+    
+    for pkg in $packages_list; do
+        if echo "$installed_db" | grep -qx "$pkg"; then
+            installed_count=$((installed_count + 1))
+        elif echo "$available_db" | grep -qx "$pkg"; then
+            missing_packages="$missing_packages $pkg"
+        else
+            not_available_count=$((not_available_count + 1))
+            not_available_list="$not_available_list $pkg"
+            log "Not in feeds: $pkg"
+        fi
+    done
+    
+    local missing_count=0
+    [ -n "$missing_packages" ] && missing_count=$(echo "$missing_packages" | wc -w)
+    
+    echo ""
+    show_big_separator
+    echo -e "${CYAN}       SMART SCAN SUMMARY${NC}"
+    show_big_separator
+    echo -e "${YELLOW}Package Manager:${NC} $OS_TYPE"
+    echo -e "${YELLOW}Python Version:${NC} $PYTHON_SUBVERSION"
+    echo -e "${YELLOW}Total packages:${NC} $total_packages"
+    echo -e "${GREEN}Already installed:${NC} $installed_count"
+    echo -e "${BLUE}To install now:${NC} $missing_count"
+    echo -e "${YELLOW}Not in feeds:${NC} $not_available_count"
+    show_big_separator
+    echo ""
+    
+    if [ "$missing_count" -eq 0 ]; then
+        success "Nothing to install - all available packages are present!"
+        return 0
+    fi
+    
+    info "Installing $missing_count package(s)..."
+    echo ""
+    
+    local success_count=0
+    local failed_count=0
+    local failed_list=""
+    
+    for pkg in $missing_packages; do
+        echo -e "${CYAN}→ Installing:${NC} ${YELLOW}$pkg${NC}"
+        
+        if [ "$OS_TYPE" = "DreamOS" ]; then
+            dpkg --configure -a $DPKG_OPTS >> "$LOG_FILE" 2>&1
+            DEBIAN_FRONTEND=noninteractive apt-get $APT_OPTS install "$pkg" >> "$LOG_FILE" 2>&1
+            if ! is_package_installed "$pkg"; then
+                DEBIAN_FRONTEND=noninteractive apt-get $APT_OPTS --fix-broken install "$pkg" >> "$LOG_FILE" 2>&1
+            fi
+        else
+            opkg install --force-overwrite --force-reinstall "$pkg" >> "$LOG_FILE" 2>&1
+        fi
+        
+        if is_package_installed "$pkg"; then
+            echo -e "  ${GREEN}✓ Installed${NC}"
+            success_count=$((success_count + 1))
+        else
+            echo -e "  ${RED}✗ Failed${NC}"
+            failed_count=$((failed_count + 1))
+            failed_list="$failed_list $pkg"
+        fi
+        
+        if is_network_package "$pkg"; then
+            safe_sleep $NETWORK_PACKAGE_DELAY
+            wait_for_network
+        else
+            safe_sleep $INTER_PACKAGE_DELAY
+        fi
+    done
+    
+    echo ""
+    show_big_separator
+    echo -e "${CYAN}       INSTALLATION FINAL REPORT${NC}"
+    show_big_separator
+    echo -e "${GREEN}Successfully installed:${NC} $success_count"
+    echo -e "${YELLOW}Already present:${NC} $installed_count"
+    echo -e "${YELLOW}Not in feeds:${NC} $not_available_count"
+    if [ $failed_count -gt 0 ]; then
+        echo -e "${RED}Failed:${NC} $failed_count"
+        echo -e "${RED}Failed packages:$NC$failed_list"
+    fi
+    show_big_separator
+    echo ""
+}
+
+cleanup_cache() {
+    info "Cleaning package cache..."
+    
+    if [ "$OS_TYPE" = "OpenSource" ]; then
+        rm -f /run/opkg.lock 2>/dev/null
+        success "OpenSource lock cleaned"
+    else
+        dpkg --configure -a $DPKG_OPTS >> "$LOG_FILE" 2>&1
+        apt-get clean 2>/dev/null
+        success "DreamOS cache cleaned"
+    fi
+}
+
+final_apt_upgrade() {
+    if [ "$OS_TYPE" != "DreamOS" ]; then
+        warning "Skipping final upgrade (not DreamOS)"
+        return 0
+    fi
+    
+    if [ "$SKIP_UPGRADE" = "1" ]; then
+        info "Final upgrade skipped (SKIP_UPGRADE=1)"
+        return 0
+    fi
+    
+    info "Running final system upgrade (apt update && apt upgrade)..."
+    
+    dpkg --configure -a $DPKG_OPTS >> "$LOG_FILE" 2>&1
+    
+    echo -e "${CYAN}[FINAL] Running: apt update${NC}"
+    if DEBIAN_FRONTEND=noninteractive apt-get $APT_OPTS update >> "$LOG_FILE" 2>&1; then
+        success "apt update completed"
+    else
+        warning "apt update had errors (continuing anyway)"
+    fi
+    
+    echo -e "${CYAN}[FINAL] Running: apt upgrade (non-interactive)${NC}"
+    if DEBIAN_FRONTEND=noninteractive apt-get $APT_OPTS upgrade >> "$LOG_FILE" 2>&1; then
+        success "apt upgrade completed"
+    else
+        warning "First upgrade attempt failed, retrying with --fix-broken..."
+        DEBIAN_FRONTEND=noninteractive apt-get $APT_OPTS --fix-broken upgrade >> "$LOG_FILE" 2>&1 \
+            && success "apt upgrade completed (fix-broken)" \
+            || warning "apt upgrade failed (continuing anyway)"
+    fi
+    
+    dpkg --configure -a $DPKG_OPTS >> "$LOG_FILE" 2>&1
+    
+    success "Final system upgrade finished"
+}
+
+show_report() {
+    echo ""
+    show_big_separator
+    echo -e "${CYAN}       INSTALLATION REPORT${NC}"
+    show_big_separator
+    echo -e "${YELLOW}System Type:${NC} $OS_TYPE"
+    echo -e "${YELLOW}Python Version:${NC} $PYTHON_SUBVERSION"
+    echo -e "${YELLOW}Log file:${NC} $LOG_FILE"
+    echo ""
+    
+    echo -e "${BLUE}Last 15 lines of log:${NC}"
+    show_separator
+    tail -n 15 "$LOG_FILE"
+    show_separator
+    
+    echo ""
+    echo -e "${YELLOW}To view full log:${NC} cat $LOG_FILE"
+    show_big_separator
+}
+
+restart_enigma2() {
+    if [ "$AUTO_RESTART" = "1" ]; then
+        echo ""
+        echo -e "${YELLOW}Restarting Enigma2 in 3 seconds...${NC}"
+        sleep 3
+        info "Restarting Enigma2"
+        echo -e "${GREEN}Restarting Enigma2...${NC}"
+        killall -9 enigma2 2>/dev/null
+        echo -e "${GREEN}Enigma2 restarted successfully!${NC}"
+    else
+        echo ""
+        echo -e "${YELLOW}Auto-restart disabled. Please restart manually.${NC}"
+        echo -e "${YELLOW}Command: killall -9 enigma2${NC}"
+    fi
+}
+
+main() {
+    show_header
+    
+    echo "Starting installation at $(date)" > "$LOG_FILE"
+    log "========================================="
+    log "Emil Package Installer v6.1 Started"
+    log "========================================="
+    
+    if [ "$(id -u)" != "0" ]; then
+        error "This script must be run as root"
+        exit 1
+    fi
+    
+    info "Checking internet connection..."
+    if ping -c 1 -W 3 8.8.8.8 > /dev/null 2>&1; then
+        success "Internet connection available"
+    else
+        warning "No internet connection detected"
+    fi
+    
+    check_package_manager || exit 1
+    
+    update_package_list
+    
+    check_python_version
+    
+    install_version_specific_libs
+    
+    echo ""
+    show_separator
+    echo -e "${BLUE}Smart scan and install missing packages...${NC}"
+    show_separator
+    echo ""
+    
+    install_packages
+    
+    cleanup_cache
+    
+    show_separator
+    echo -e "${BLUE}Running final system upgrade (update + upgrade)...${NC}"
+    echo -e "${YELLOW}This may take several minutes, please wait...${NC}"
+    show_separator
+    final_apt_upgrade
+    
+    show_report
+    
+    restart_enigma2
+    
+    echo ""
+    echo -e "${GREEN}Process completed successfully!${NC}"
+    echo -e "${YELLOW}You can now use your system normally.${NC}"
+    echo ""
+    
+    log "========================================="
+    log "Emil Package Installer v6.1 Finished"
+    log "========================================="
+}
+
+main
+
+exit 0
